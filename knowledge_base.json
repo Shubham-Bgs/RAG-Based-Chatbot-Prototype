@@ -1,0 +1,2745 @@
+{
+  "McDonald's": {
+    "restaurant_name": "McDonald's",
+    "location": "USA",
+    "opening_hours": null,
+    "contact_info": null,
+    "scrape_source": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+    "item_count": 93,
+    "items": [
+      {
+        "item_name": "Spicy McCrispyâ„¢",
+        "description": "McDonaldâ€™s Spicy McCrispy Chicken Sandwich is made with southern-style fried chicken & Spicy Pepper Sauce. Grab it at your nearest McDonald's today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ mccrispyâ„¢ mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ 10 piece chicken mcnuggetsÂ® 10 piece chicken mcnuggetsÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-mccrispy-chicken-sandwich.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Big MacÂ®",
+        "description": "Grab a Big MacÂ® for a unique McDonald's experience: made with two all beef patties, Big MacÂ® sauce & more. Get yours today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe mcdoubleÂ® mcdoubleÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/big-mac.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Chicken McNuggetsÂ®",
+        "description": "McDonald's Chicken McNuggetsÂ® are all white meat Chicken Nuggets with no artificial preservatives! Try tender, juicy Chicken Nuggets at McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ mccrispyâ„¢ mccrispyâ„¢ spicy mccrispyâ„¢ spicy mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/chicken-mcnuggets-4-piece.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Quarter PounderÂ®* with Cheese",
+        "description": "Our Quarter PounderÂ® with Cheese features 100% fresh beef, American cheese, onion and pickles. Try a fresh beef burger today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe mcdoubleÂ® mcdoubleÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/quarter-pounder-with-cheese.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Coffee",
+        "description": "McCafÃ©Â® Iced Coffee features Arabica beans, cream & your choice of coffee flavor. Order an Iced Coffee at a McDonald's near you or with McDeliveryÂ®!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-small.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Egg McMuffinÂ®",
+        "description": "Our Egg McMuffinÂ® breakfast sandwich has a freshly cracked egg, Canadian bacon & American cheese. Try an Egg McMuffinÂ® at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/egg-mcmuffin.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Sausage Burrito",
+        "description": "McDonald's Sausage Burrito is a delicious breakfast burrito with fluffy eggs & pork sausage. Grab a sausage breakfast burrito at McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-burrito.html",
+        "price": null,
+        "category": "Featured Favorites"
+      },
+      {
+        "item_name": "Bacon, Egg & Cheese Biscuit",
+        "description": "Enjoy a Bacon, Egg & Cheese Biscuit sandwich from the McDonald's breakfast menu. Grab a Biscuit Breakfast Sandwich today at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/bacon-egg-cheese-biscuit.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage McMuffinÂ®",
+        "description": "McDonaldâ€™s Sausage McMuffinÂ® is made with American cheese & sizzling sausage sandwiched between a toasted English Muffin. Grab one with McDeliveryÂ® today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage McMuffinÂ® with Egg",
+        "description": "Our Sausage Egg McMuffinÂ® breakfast sandwich features savory sausage, a freshly cracked egg & cheese. Try one today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin-with-egg.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage Biscuit",
+        "description": "McDonald's Sausage Biscuit breakfast sandwich features hot sausage on a warm buttermilk biscuit. Grab a Sausage Biscuit at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-biscuit.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage Biscuit with Egg",
+        "description": "The Sausage Biscuit with Egg Sandwich features fluffy eggs, a sausage patty & a biscuit!. Try a hot sausage & egg breakfast biscuit at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-biscuit-with-egg.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Bacon, Egg & Cheese McGriddlesÂ®",
+        "description": "Our Bacon, Egg & Cheese McGriddlesÂ® recipe features thick cut smoked bacon, folded egg & melty American cheese. Try one at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/bacon-egg-cheese-mcgriddles.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage McGriddlesÂ®",
+        "description": "Our Sausage McGriddlesÂ® breakfast sandwich features warm sausage & sweet griddle cakes. Try a Sausage McGriddles today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcgriddles.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Sausage, Egg & Cheese McGriddlesÂ®",
+        "description": "Our Sausage, Egg & Cheese McGriddlesÂ® features hot sausage, fluffy egg, and melty cheese on warm griddle cakes.Try one at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-egg-cheese-mcgriddles.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Big BreakfastÂ®",
+        "description": "McDonald's Big BreakfastÂ® includes a buttery biscuit, eggs, Hash Browns & hot sausage patty. Order a Big breakfast meal today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/big-breakfast.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Big BreakfastÂ® with Hotcakes",
+        "description": "Get McDonaldâ€™s Big BreakfastÂ® with Hotcakesâ€”Eggs, Hash Browns, Sausage, Biscuit & Hotcakes. Try a pancakes breakfast now at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/big-breakfast-with-hotcakes.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Hotcakes",
+        "description": "Enjoy McDonald's, Hotcakesâ€”golden brown, fluffy pancakes served with real butter & sweet syrup. Get some hot pancakes now at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hotcakes.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Hotcakes and Sausage",
+        "description": "Love pancakes and sausage? Then stop by for McDonald's Hotcakes and sausage breakfast, featuring our McDonald's sausage patty and fluffy pancakes!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hotcakes-and-sausage.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Hash Browns",
+        "description": "McDonald's Hash Browns are made from fluffy shredded potatoes. Upgrade your breakfast with crispy shredded hash browns at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hash-browns.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Fruit & Maple Oatmeal",
+        "description": "McDonald's Fruit & Maple Oatmeal recipe combines whole grain oats with fruits and light cream. Get a Fruit & Maple Oatmeal at the nearest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffinÂ® egg mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® sausage mcmuffinÂ® with egg sausage mcmuffinÂ® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/fruit-maple-oatmeal.html",
+        "price": null,
+        "category": "Breakfast"
+      },
+      {
+        "item_name": "Double Quarter PounderÂ®* with Cheese",
+        "description": "Enjoy a Double Quarter PounderÂ® with Cheeseâ€”a freshly cooked beef burger, layered with melty cheese, onions and tangy pickles on sesame seed bun.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe mcdoubleÂ® mcdoubleÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/double-quarter-pounder-with-cheese.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "Quarter PounderÂ®* with Cheese Deluxe",
+        "description": "The Quarter Pounder with Cheese Deluxe features fresh toppings like crisp lettuce and roma tomatoes on top of a fresh beef burger. Try one at McDonald's today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese mcdoubleÂ® mcdoubleÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/deluxe-quarter-pounder-with-cheese.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "McDoubleÂ®",
+        "description": "Our McDonaldâ€™s McDoubleÂ® comes with two all beef patties, American cheese, onion and pickles. Order a McDouble today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mcdouble.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "Bacon Quarter PounderÂ®* with Cheese",
+        "description": "Try McDonald's Bacon Quarter Pounder with Cheeseâ€”Â¼ lb. beef patties topped with smoked bacon. Get this beef bacon burger at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/quarter-pounder-bacon.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "Cheeseburger",
+        "description": "The McDonaldâ€™s Cheeseburger is a classic that has been with us from the start! Enjoy a delicious Cheeseburger at a McDonald's near you or order in the app.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/cheeseburger.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "Double Cheeseburger",
+        "description": "McDonald's Double Cheeseburger comes with two all beef patties and two American cheese slices. Enjoy a 100% pure beef Double Cheeseburger at McDonald's today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/double-cheeseburger.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "Hamburger: The Classic McDonald's Burger",
+        "description": "The McDonaldâ€™s Hamburger is a 100% beef burger seasoned with a pinch of salt and pepper. Enjoy a perfectly seasoned Classic Burger at McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product big macÂ® big macÂ® quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese double quarter pounderÂ®* with cheese quarter pounderÂ®* with cheese deluxe quarter pounderÂ®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hamburger.html",
+        "price": null,
+        "category": "Burgers"
+      },
+      {
+        "item_name": "McCrispyâ„¢",
+        "description": "McDonaldâ€™s McCrispyâ„¢ Chicken Sandwich is a breaded chicken sandwich that's full of flavor. Try this fried chicken sandwich today at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ spicy mccrispyâ„¢ spicy mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ 10 piece chicken mcnuggetsÂ® 10 piece chicken mcnuggetsÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mccrispy-chicken-sandwich.html",
+        "price": null,
+        "category": "Chicken & Fish Sandwiches"
+      },
+      {
+        "item_name": "Deluxe McCrispyâ„¢",
+        "description": "McDonald's Deluxe McCrispyâ„¢ is a deluxe crispy chicken sandwich with a crispy chicken fillet, Roma tomatoes & lettuce. Try it at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ mccrispyâ„¢ mccrispyâ„¢ spicy mccrispyâ„¢ spicy mccrispyâ„¢ 10 piece chicken mcnuggetsÂ® 10 piece chicken mcnuggetsÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/deluxe-mccrispy-chicken-sandwich.html",
+        "price": null,
+        "category": "Chicken & Fish Sandwiches"
+      },
+      {
+        "item_name": "Spicy Deluxe McCrispyâ„¢",
+        "description": "Try McDonald's Spicy Deluxe McCrispy Chicken Sandwichâ€”crispy chicken with Spicy Pepper Sauce. Order this spicy deluxe chicken sandwich in the app!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product mcribÂ® mcribÂ® spicy mccrispyâ„¢ spicy mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ 10 piece chicken mcnuggetsÂ® 10 piece chicken mcnuggetsÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-deluxe-mccrispy-chicken-sandwich.html",
+        "price": null,
+        "category": "Chicken & Fish Sandwiches"
+      },
+      {
+        "item_name": "Filet-O-FishÂ®",
+        "description": "Enjoy a Filet-O-Fish! A delicious fish sandwich made with wild-caught Alaskan Pollock, cheese & tartar sauce! Order one at McDonald's or in the app!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ mccrispyâ„¢ mccrispyâ„¢ spicy mccrispyâ„¢ spicy mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/filet-o-fish.html",
+        "price": null,
+        "category": "Chicken & Fish Sandwiches"
+      },
+      {
+        "item_name": "McChickenÂ®",
+        "description": "The McDonald's McChickenÂ® is a crispy chicken sandwich topped with mayo and lettuce. Order a crispy McChicken sandwich at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product spicy deluxe mccrispyâ„¢ spicy deluxe mccrispyâ„¢ mccrispyâ„¢ mccrispyâ„¢ spicy mccrispyâ„¢ spicy mccrispyâ„¢ deluxe mccrispyâ„¢ deluxe mccrispyâ„¢ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mcchicken.html",
+        "price": null,
+        "category": "Chicken & Fish Sandwiches"
+      },
+      {
+        "item_name": "Small World Famous FriesÂ®",
+        "description": "McDonald's World Famous FriesÂ® make for a savory snack or crispy addition to any meal. Get your fries with McDeliveryÂ® or at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product world famous friesÂ® world famous friesÂ® apple slices apple slices world famous friesÂ® world famous friesÂ® world famous friesÂ® world famous friesÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/small-french-fries.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Apple Slices",
+        "description": "Looking for a easy kids snack? McDonaldâ€™s apple slices are the perfect addition as a snack or side, or add them to any Happy MealÂ® !",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product world famous friesÂ® world famous friesÂ® small world famous friesÂ® small world famous friesÂ® world famous friesÂ® world famous friesÂ® world famous friesÂ® world famous friesÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/apple-slices.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Tangy Barbeque Sauce",
+        "description": "McDonald's Tangy Barbeque Sauce features a tomato paste base, vinegar & savory spices. Pair with Chicken McNuggetsÂ® for a satisfying combo!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce honey honey sweet 'n sour sauce sweet 'n sour sauce spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/tangy-barbeque-sauce.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Spicy Buffalo Sauce",
+        "description": "Our McDonald's Spicy Buffalo Sauce recipe fuses flavors of vinegar, butter and pepper. Give this hot, spicy buffalo sauce a try at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-buffalo-sauce.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Creamy Ranch Sauce",
+        "description": "McDonald's ranch is slightly tart with flavors of onion and garlic. Try this tasty McDonald's Creamy Ranch Sauce with Chicken McNuggetsÂ® or Fries!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/creamy-ranch-sauce.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Honey Mustard Sauce",
+        "description": "McDonald's Honey Mustard sauce recipe is a zesty dijon with sweet notes of honey. Try our Honey Mustard dipping sauce today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/honey-mustard-sauce.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Honey",
+        "description": "McDonald's pure honey is the perfect McNuggetsÂ® dipping sauce or pairing for McDonald's fries. Try it today with your McDonald's order!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce sweet 'n sour sauce sweet 'n sour sauce spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/honey.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Sweet 'N Sour Sauce",
+        "description": "Our McDonald's Sweet 'N Sour sauce recipe blends apricot & peach flavors to make the perfect sweet and sour dipping sauce for Chicken McNuggetsÂ®!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sweet-n-sour-sauce.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Ketchup Packet",
+        "description": "Enjoy the sweet, classic flavor of McDonald's Ketchup, made from red ripe tomatoes. Add this tomato ketchup to your order at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/ketchup-packet.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Mustard Packet",
+        "description": "Try McDonald's Mustard Sauce for a tangy and spicy dipping sauce experience. Add this mustard dipping sauce to your meal at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mustard-package.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "Mayonnaise Packet",
+        "description": "Try McDonald's Mayonnaiseâ€”a rich, creamy mayo dipping sauce made with egg yolk, mustard flour & vinegar. Add it to your meal at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mayonnaise-packet.html",
+        "price": null,
+        "category": "Fries & Sides"
+      },
+      {
+        "item_name": "McCafÃ©Â® Caramel Macchiato",
+        "description": "Our Caramel Macchiato combines bold espresso and buttery caramel flavor with steamed milk. Try this hot Caramel Macchiato at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® french vanilla cappuccino mccafÃ©Â® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/caramel-macchiato-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Cappuccino",
+        "description": "Warm up with a McCafÃ©Â® Cappuccinoâ€”made with rich, sustainably sourced espresso and steamed milk. Grab a cup of Cappuccino at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® french vanilla cappuccino mccafÃ©Â® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/cappuccino-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Caramel Cappuccino",
+        "description": "McCafÃ©Â® Caramel Cappuccino features steamed milk, bold espresso & a rich caramel flavor. Order a Caramel Cappuccino today at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® french vanilla cappuccino mccafÃ©Â® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/caramel-cappuccino-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® French Vanilla Cappuccino",
+        "description": "Our French Vanilla Cappuccino blends rich vanilla flavor with bold espresso & steamed milk. Try a French Vanilla Cappuccino at your closest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/french-vanilla-cappuccino-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Mocha Latte",
+        "description": "Our McCafÃ©Â® Mocha Latte is made with espresso, rich chocolate syrup and whipped light cream. Order a Mocha Latte today at your closest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mccaf-mocha-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "Americano",
+        "description": "Try our McCafÃ©Â® Americano made with hot water and Rainforest Alliance Certified espresso. Grab an Americano today at your nearest McDonaldâ€™s!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/espresso-americano-coffee-small-12-oz.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Premium Roast Coffee",
+        "description": "McCafÃ©Â® Premium Roast Coffee is made with expertly roasted 100% Arabica coffee beans.Order a freshly brewed coffee now at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/coffee-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Caramel Macchiato",
+        "description": "McDonald's Iced Caramel Macchiato features bold espresso and buttery caramel syrup with extra caramel drizzle. Enjoy one at your nearest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® french vanilla cappuccino mccafÃ©Â® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-caramel-macchiato.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Mocha Latte",
+        "description": "Try a refreshing Iced Mocha latte with Rainforest Alliance Certifiedâ„¢ espresso, rich chocolate syrup & milk. Grab an Iced Mocha at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mccafe-iced-mocha-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Caramel Coffee",
+        "description": "McDonaldâ€™s Iced Caramel Coffee features premium roast coffee & buttery caramel syrup. Order a McCafÃ© Iced Caramel Coffee at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-caramel-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced French Vanilla Coffee",
+        "description": "McCafÃ©Â® French Vanilla Iced Coffee features creamy vanilla syrup and bold coffee to kickstart your day. Order one today at your nearest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-french-vanilla-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Latte",
+        "description": "Start your day with a McDonald's Latte made with rich Rainforest Alliance Certifiedâ„¢ espresso & steamed milk. Order a hot latte at your closest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Latte",
+        "description": "Get refreshed with McDonald's Iced Latte featuring espresso, whole milk & your choice of flavored syrup. Try an Iced Latte today at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mccaf-iced-latte-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Caramel Latte",
+        "description": "Sip on a McCafÃ©Â® Caramel Latteâ€”made with espresso, buttery caramel syrup and milk. Try a Hot Caramel Latte at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-caramel-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced Caramel Latte",
+        "description": "A McCafÃ©Â® Iced Caramel Latte features bold espresso, milk, and creamy caramel syrup. Treat yourself to an Iced Caramel Latte at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-caramel-latte-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® French Vanilla Latte",
+        "description": "McDonaldâ€™s French Vanilla Latte blends creamy French vanilla syrup, bold espresso and milk. Try a hot Vanilla Latte at your nearest McDonald's today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-french-vanilla-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Iced French Vanilla Latte",
+        "description": "A McCafÃ©Â® Iced French Vanilla Latte features bold espresso, whole milk & French vanilla syrup. Sip on an Iced Vanilla Latte at your closest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-french-vanilla-latte-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Caramel FrappÃ©",
+        "description": "McCafÃ©Â® Caramel Frappe blends caramel flavor with a hint of coffee & is topped with whipped light cream. Try a Caramel Frappe at a McDonald's nearby!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/frappe-caramel-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McCafÃ©Â® Mocha FrappÃ©",
+        "description": "McCafÃ©Â® Mocha Frappe blends chocolate flavor with a hint of coffee & is topped with whipped light cream. Try a Mocha Frappe at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/frappe-mocha-small.html",
+        "price": null,
+        "category": "McCafÃ©Â® Coffees"
+      },
+      {
+        "item_name": "McFlurryÂ® with OREOÂ® Cookies",
+        "description": "Try the McDonaldâ€™s OREOÂ® McFlurryÂ®, a popular combination of vanilla soft serve & OREOÂ® pieces. Order now at a McDonald's near you or in the App!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mcflurry-with-oreo-cookies.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "McFlurryÂ® with M&M'SÂ® Candies",
+        "description": "Treat yourself to a McDonaldâ€™s M&MÂ® McFlurryÂ®â€”made with vanilla soft serve and M&Mâ€™sÂ® candies swirled throughout. Order at a McDonaldâ€™s near you or in the app!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies vanilla cone vanilla cone chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mm-candy-mcflurry.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Vanilla Cone",
+        "description": "Enjoy a vanilla soft serve treat at McDonald's, featuring our creamy vanilla soft serve in a crispy cone. Order one at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/vanilla-cone.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Chocolate Shake",
+        "description": "Sip on a perfectly crafted McDonaldâ€™s Chocolate Shake, made with creamy soft serve & chocolate syrup! Try a Chocolate Shake at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/chocolate-shake-small.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Vanilla Shake",
+        "description": "McDonaldâ€™s Vanilla Shake combines creamy soft serve and vanilla syrup with whipped light cream on top. Grab a Vanilla Shake at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/vanilla-shake-small.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Strawberry Shake",
+        "description": "McDonald's Strawberry Shake features creamy soft serve and delicious strawberry syrup. Try this Strawberry Shake at your nearest McDonaldâ€™s today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/strawberry-shake-small.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Hot Fudge Sundae",
+        "description": "Our Hot Fudge Sundae is made with creamy vanilla soft serve and hot fudge topping. Order a Hot Fudge Sundae at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-fudge-sundae.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Hot Caramel Sundae",
+        "description": "McDonald's Hot Caramel Sundae is made with vanilla soft serve and buttery caramel sauce. Try a Hot Caramel Sundae today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-caramel-sundae.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Baked Apple Pie",
+        "description": "Sweeten up your meal with McDonald's Baked Apple Pieâ€”an apple pie dessert made with apples and a lattice crust Try it at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/baked-hot-apple-pie.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Chocolate Chip Cookie",
+        "description": "Satisfy your sweet tooth with a soft and chewy Chocolate Chip Cookie from McDonaldâ€™s. Order a Chocolate Chip Cookie today at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with oreoÂ® cookies mcflurryÂ® with m&m'sÂ® candies mcflurryÂ® with m&m'sÂ® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/chocolate-chip-cookie.html",
+        "price": null,
+        "category": "Sweets & Treats"
+      },
+      {
+        "item_name": "Coca-ColaÂ®",
+        "description": "Coca-ColaÂ® from McDonald's is a cold, refreshing fountain drink. Grab a Coca-Cola soda at a McDonaldâ€™s near you & pair it with your favorite menu items!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange diet cokeÂ® diet cokeÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/coca-cola-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "SpriteÂ®",
+        "description": "Have you tried a caffeine free soda? Order a McDonaldâ€™s SpriteÂ®â€”a lemon lime soda that's caffeine free and a perfect addition to any McDonaldâ€™s meal!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange diet cokeÂ® diet cokeÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sprite-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Dr PepperÂ®",
+        "description": "Dr PepperÂ® is a unique blend of 23 flavors that pairs perfectly with all your McDonald's favorites. Try a Dr Pepper soda at your nearest McDonaldâ€™s today!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® fantaÂ® orange fantaÂ® orange diet cokeÂ® diet cokeÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/dr-pepper-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "FantaÂ® Orange",
+        "description": "Enjoy FantaÂ® Orange sodaâ€”a refreshing, caffeine-free soda full of orange flavor. Order an Orange FantaÂ® soda at a McDonald's near you or in the app!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® diet cokeÂ® diet cokeÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/fanta-orange-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Diet CokeÂ®",
+        "description": "Sip on an icy cold, sugar-free, zero calories Diet CokeÂ® from McDonald's. Order a Diet Coke fountain drink at a McDonaldâ€™s near you or with McDeliveryÂ®!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/diet-coke-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Hi-CÂ® Orange LavaburstÂ®",
+        "description": "Hi-CÂ® Orange LavaburstÂ® is a fun and delicious orange flavored drink with a fruity taste you loveâ€”grab a Hi-C Orange drink at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hi-c-orange-lavaburst-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Frozen FantaÂ® Blue Raspberry",
+        "description": "Sweet, fruity raspberry flavor with a hint of tartness for a super cool refreshing treat thatâ€™s perfect for the summer. Get a small Frozen FantaÂ® Blue Raspberry with Mobile Order & Pay in the app!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/frozen-fanta-blue-raspberry-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Frozen Coca-ColaÂ® Classic",
+        "description": "Enjoy a refreshing Frozen Coca-ColaÂ® with your favorite McDonaldâ€™s burger & Fries. Get a small Frozen CokeÂ® slushie today at your nearest McDonald's!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/frozen-coke-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Strawberry Banana Smoothie",
+        "description": "McDonaldâ€™s Strawberry Banana Smoothie recipe combines low fat yogurt with fruit puree & juices. Get the best Strawberry Banana Smoothie at McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/strawberry-banana-smoothie-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Mango Pineapple Smoothie",
+        "description": "McDonaldâ€™s Mango Pineapple Smoothie blends tropical smoothie flavors with low fat yogurt and ice. Enjoy one at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product mccafÃ©Â® caramel macchiato mccafÃ©Â® caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® iced caramel macchiato mccafÃ©Â® cappuccino mccafÃ©Â® cappuccino mccafÃ©Â® caramel cappuccino mccafÃ©Â® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/mango-pineapple-smoothie-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Try a refreshing McDonald's Lemonade, made with real lemon juice, lemon pulp & real cane sugar. Grab a Lemonade drink now at a McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® fantaÂ® orange fantaÂ® orange dr pepperÂ® dr pepperÂ® spriteÂ® spriteÂ® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/lemonade-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Sweet Tea",
+        "description": "Sip on a McDonaldâ€™s Sweet Teaâ€”a refreshing blend of orange pekoe and pekoe cut black tea. Order a Sweet Tea at a McDonaldâ€™s near you or with McDeliveryÂ®!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/sweet-tea-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Unsweetened Iced Tea",
+        "description": "McDonald's Iced Tea recipe features a refreshing blend of orange pekoe & pekoe cut black tea. Enjoy an Unsweetened Iced Tea at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-tea-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Hot Tea",
+        "description": "McDonald's Hot Tea is a flavorful mix of orange pekoe & pekoe cut black tea. Get your Hot Tea at the nearest McDonaldâ€™s to start a perfect morning!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-tea-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Minute MaidÂ® Premium Orange Juice",
+        "description": "Get 100% Orange Juice with Minute MaidÂ® Premium Orange Juice at McDonald's. Try our pure Orange Juice with Vitamin C at the McDonald's near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/minute-maid-orange-juice-medium-201248.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Honest KidsÂ® Appley Ever AfterÂ® Organic Juice Drink",
+        "description": "Looking for an organic juice for kids? Add an Honest KidsÂ® Appley Ever AfterÂ® Organic Juice Drink to your Happy MealÂ® at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/honest-kids-appley-ever-after-6-fl-oz-drink-box.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "1% Low Fat Milk Jug",
+        "description": "McDonald's 1% Low Fat Milk Jug contains wholesome low fat milk with the goodness of Calcium and Vitamin D. Order at McDonald's with Mobile Order & Pay!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/1-low-fat-milk-jug.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "Reduced Sugar* Low Fat Chocolate Milk Jug",
+        "description": "Sip on a delicious, calcium and vitamins A & D-rich Low Fat Chocolate Milk Jug. Grab a Reduced Sugar Low Fat Chocolate Milk Jug at a McDonaldâ€™s near you!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/reduced-sugar-low-fat-chocolate-milk-jug.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "",
+        "description": "Looking for some delicious coffee nearby? Browse our McCafÃ©Â® Coffee menu for freshly brewed coffee, espresso drinks, McCafÃ© beverages and more!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: as identified by the u.s"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-chocolate-small.html",
+        "price": null,
+        "category": "Beverages"
+      },
+      {
+        "item_name": "DASANIÂ® Water",
+        "description": "Quench your thirst with a cool and refreshing DASANIÂ® water bottle. Grab DASANIÂ® purified water at a McDonaldâ€™s near you or order with McDeliveryÂ®!",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Allergens: information nutrition calculator related product coca-colaÂ® coca-colaÂ® spriteÂ® spriteÂ® dr pepperÂ® dr pepperÂ® fantaÂ® orange fantaÂ® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+        ],
+        "product_url": "https://www.mcdonalds.com/us/en-us/product/dasani-water.html",
+        "price": null,
+        "category": "Beverages"
+      }
+    ]
+  },
+  "Haldiram's": {
+    "restaurant_name": "Haldiram's",
+    "location": "India",
+    "opening_hours": null,
+    "contact_info": null,
+    "scrape_source": "https://www.haldirams.com/media/sitemap/sitemap.xml",
+    "item_count": 199,
+    "items": [
+      {
+        "item_name": "Savories",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/savories.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Namkeen",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/savories/namkeen.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Papad",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/savories/papads.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chai Ke Saath",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/savories/chai-k-saath.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Sweets",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Packed Sweets",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/packed-sweet.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Exotic Collection",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/exotic-collection.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Tin Sweets",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/tin-sweets.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Beverages",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/beverages.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Cookies",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/cookies.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Ready to Eat",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/ready-to-eat.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Gifting",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/holi-special/gifting.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bestsellers",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/bestselling-products.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "New Arrivals",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/new-arrivals.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "E-Coupons",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/coupons.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Ghee",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/ghee.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Flash Sale",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/festive-special.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Namkeen",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/holi-special/gifting/namkeen.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "No Added Sugar",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/no-added-sugar.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruits",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/corporate-gifting/dry-fruits-collection.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Gifting",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/corporate-gifting/festive-gift-hamper-collection.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Haldiram Premium",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/haldiram-premium.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Fresh Pops",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/mukhwas.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Festive Treats",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/festive-treats.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Signature Collection",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweets-73/signature-collection.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Eid Special",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/eid-special.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Ready to Cook",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/ready-to-cook.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bhujia Sev",
+        "description": "Inclusive of all taxes  Deliciously crisp besan sticks, flavoured with a blast of red chilli and garam masala. Haldiram's Bhujia is an authentic rendition of the classic, textured namkeen. Reach for a pack at teatime or top it on a steaming bowl of upma, poha or chaats.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/bhujia-sev-60.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bhel Puri",
+        "description": "A generous mix of crispy sev, bhel, and potato bits, Haldiram's Bhel Puri is a lip-smacking take on Indiaâ€™s beloved street food. \r\n\r\nPerfect on its own or whipped up with some chopped fresh onions and tomatoes, the authentic Mumbai style.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/bhel-puri-311.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Aloo Bhujia",
+        "description": "Inclusive of all taxes  The ultimate comfort snack - spicy potato and besan noodles that will keep you coming back for more! This classic Haldiram's offering is perfect to top your salads, chaats and bhel.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/aloo-bhujia-56.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moong Dal",
+        "description": "Inclusive of all taxes  Split moong beans coated in a delectable selection of spices. An all-time favourite offering from Haldiram's, you don't need a special time or occasion to snack on these!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/moong-dal-322.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Agra Taj Petha",
+        "description": "Inclusive of all taxes  Soft, chewy cubes of candied winter melon, straight from the land of Taj Mahal! This fruity, sugary confection is a guaranteed hit with the young and old alike. Treat your guests and loved ones to something extra special with our Agra Taj Pethas.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/agra-taj-petha-94.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Punjabi Papad",
+        "description": "Inclusive of all taxes   Thin, crunchy papad created using the bold flavours of dry coriander and jeera, adding a flavourful Punjabi twist! Serve plainly roasted, topped with chopped vegetables or as a fried accompaniment with a delicious meal.",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/amritsari-punjabi-papad-45.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Corn Flakes Mixture",
+        "description": "Inclusive of all taxes  Crispy cornflakes, rich dry fruits and spicy namkeen, blended into the ultimate snack! Generously drizzled with flavourful spices, this original mix is deliciously filling. Haldiram's Corn Flakes Mix beats the peskiest hunger pangs!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/conflex-mixture-63.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rasgulla",
+        "description": "Inclusive of all taxes  \"Juicy, fluffy, soft dumplings of chenna (fresh curd cheese) soaked in pistachos flavoured sweet syrup. Dig into this indulgent goodness with our Rasgulla tin and treat yourself to the most authentic Bengali experience.\r\n\"",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rasgulla-52.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dodha Burfee",
+        "description": "Inclusive of all taxes  Thick, creamy milk fudge made with desi ghee, generously topped with shredded coconut and crunchy cashews. This classic offering from Punjab is indulgently delicious and loaded with nutrition. Enjoy this timeless traditional sweet treat of Haldiram's Dodha Burfee!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dodha-burfee-1422.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Katli",
+        "description": "Inclusive of all taxes  Smooth and creamy diamond-shaped slices of royal cashew goodness. Haldiram's Kaju Katli is made with quality cashews, thick milk and edible silver foil. This festive favourite is an indulgent treat made to share with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-katli-haldirams.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Flavourful Fusions - Milk (500 g)",
+        "description": "Inclusive of all taxes  Flavourful combination of KajuSangamBurfee, DudhKhajoorBurfee, MawaGilori. The best choice to satisfy your sweet tooth",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/flavourful-fusions-milk-500gms-1648.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Flavourful Fusions - Kaju (500 g)",
+        "description": "Inclusive of all taxes  Flavourful combination of Kaju Katli, kaju Roll and Kaju Chocolate ladoo. The best choice to satisfy your sweet tooth",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/flavourful-fusions-kaju-500gms.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Vermicelli",
+        "description": "Inclusive of all taxes  A versatile base ingredient for a variety of Indian meals, from breakfast to dessert. These thin noodle alternatives make creamy sweet kheers, spicy upmas and delicious pulao as well.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/vermicelli-349.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lemon Bhel (200 g)",
+        "description": "Inclusive of all taxes  Lip-smacking Bhel  Puri in a tangy avatar! The citrusy juice of fresh lemons whipped into a combination of crackly bhel, chana and crispy sev. Serve with chopped tomatoes and onions for a delicious evening snack.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/lemon-bhel-12.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Punjabi Tadka (200 g)",
+        "description": "Inclusive of all taxes  Crunchy gram flour sticks enhanced with the goodness of ground coriander, jeera and garam masala. Classic sev featuring a Punjabi twist, this wholesome snack is the perfect teatime companion!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/punjabi-tadka-19.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Khatta Meetha",
+        "description": "Inclusive of all taxes  Deliciously sweet and sour, this mix of fried green peas, boondi, lemon sev and classic namkeen is an extraordinary treat to your senses. Give your teatime an ideal companion, that's perfectly tangy and sweet!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/khatta-meetha-67.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mixture",
+        "description": "Inclusive of all taxes  A mouthwatering mix of spicy treats and chatpata namkeen. Haldiram's Mixture is made with crunchy peanuts, roasted green peas, and sev. This scrumptious snack is the ultimate accompaniment with drinks at teatime.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/mixture-70.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Aloo Lachha (100 g)",
+        "description": "Inclusive of all taxes  Crunchy, spiced potato sticks flavoured with a blast of red chilli, pepper and freshly ground jeera. The perfect addition to your teatime and traditional meals, these crispy mouth-watering snacks are an all-time favourite offering from Haldiram's.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/aloo-lachha-1457.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Ratlami Sev (200 g)",
+        "description": "Inclusive of all taxes  Crispy, fried sticks made with nutritious chickpea flour and a signature blend of Haldiram's finest spices. A unique twist on the classic flavours of Bikaner, Ratlami Sev is an ideal teatime companion on its own, or top it on upma, sprout salads and poha for that extra kick of flavour.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/ratlami-sev-20.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Roasted Chana (200 g)",
+        "description": "Inclusive of all taxes  Irresistible, toasted chanas loaded with Haldiram's special masala mix. This crunchy, spicy snack is highly addictive and an extraordinary treat to your senses.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chana-cracker-315.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dal Biji (200 g)",
+        "description": "Inclusive of all taxes  A delicious mix of crunchy besan sev, lentils, and fresh muskmelon brought together with a flavourful blast of spices. With a recipe dating back to generations, Dal Biji is mouthwateringly unique and retains the authentic taste of Indian flavours.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dal-biji-412.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Fatafat Bhel (100 g)",
+        "description": "Inclusive of all taxes   You can enjoy India's most favourite street-food without actually going to the streets. This box of flavors comes with three sachets of chutneys inside. So open, mix and enjoy!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/fatafat-bhel-1328.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chana Jor Garam (200 g)",
+        "description": "Inclusive of all taxes  Delicious bits of spicy and rich chana dal, a mouthwatering delicacy from the house of Haldiram's. Serve with freshly chopped tomatoes, onions and a dash of lime juice to whip up a nutritious evening snack.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chana-jor-garam71.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lite Chiwda (200 g)",
+        "description": "Inclusive of all taxes  A scrumptious combination of flaky poha, crispy boondi and spicy sev, Lite Chiwda is a great option for a snacking indulgence, even while on a diet!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/lite-chivda-13.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Boondi (200 g)",
+        "description": "Inclusive of all taxes  Small and round bits of spicy besan batter, bursting with the flavour of red chillies. Boondi makes an excellent crunchy topping to various food items and beverages.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/boondi-9.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Farali Chiwda (200 g)",
+        "description": "Inclusive of all taxes  A wholesome mix of fried potato sticks, crunchy peanuts and Haldiram's trademark masala, Phalhari Chiwda is made with quality ingredients. Stock up on this tasty essential for teatime snacking and a quick meal when fasting.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/phalhari-chivda-18.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Golden Mix (200 g)",
+        "description": "Inclusive of all taxes  Golden Mix - Surti Farsan",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/papad-chavanu-200g-1708.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chana Nuts (200 g)",
+        "description": "Inclusive of all taxes  All Time Salted Snack Of Fried Mung Lentils. Ingredients : Chick Peas, Peanuts, Edible Vegetable Oil, Red Chilli, Salt, Black Salt, Black Pepper, Acidity Regulator & Antioxidant (E 330), Sugar, Cardamom, Cumin, Dry Mango Powder, Coriander Powder, Ani Seed, Fenugreek Seed, Cinnamon, Dry Ginger Powder, Nutmeg, Clove Powder, Turmeric Powder, Garlic Powder, Tamarind Powder, Bay Leaf & AsafoetidaContains PeanutMay Contain Other Tree Nuts, Gluten & Sesame Seed.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Contains allergen information"
+        ],
+        "product_url": "https://www.haldirams.com/chana-nuts-314.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Tasty Nuts (200 g)",
+        "description": "Inclusive of all taxes  A signature Haldiram's recipe featuring irresistible coated peanuts. The delicious nutty flavour and masaledaar besan crust make these crispies a hit with the young and old alike!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/tasty-nuts-114.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chatpata Dal (200 g)",
+        "description": "Inclusive of all taxes  Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and spicy. These tangy, crunchy lentils are flavoured with a blast of spices and add texture to every meal. This snack is exactly what you need after a long day!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chatpata-dal-316.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Salted Peanuts (200 g)",
+        "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in some salt, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/salted-peanuts-132.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Masala Kaju (35 g)",
+        "description": "Inclusive of all taxes  Spicy, crunchy and highly addictive! Masala Kaju is an indulgent offering from Haldiram's - made with the finest cashew nuts and a premium mix of spices. These wholesome spiced cashews are the perfect snack, anytime and anywhere!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/masala-kaju-357.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Karodpati Bhujia (125 gms)",
+        "description": "Inclusive of all taxes  Each bite of this spicy and thick dew bean and gram flour sticks will bring a smile to your face. Enjoy and seep into the taste of rich textural and taste-worthy heritage with this pack of karodpati bhujia.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/karodpati-bhujia-1378.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Marwari Bhujia (125 gms)",
+        "description": "Inclusive of all taxes  An absolute favourite among those who love to have something light with their tea, this packet of marwari bhujia, is a must buy.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/marwari-bhujia-1375.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chekaralu (150 g)",
+        "description": "Inclusive of all taxes  Crisp, buttery spirals made with rice flour, urad dal and flavourful spices. This popular South Indian snack dissolves in your mouth, leaving behind a rich taste of jeera and sesame.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/chekaralu-313.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moorukulu (150 g)",
+        "description": "Inclusive of all taxes  Buttery bits of fried rice and besan, bursting with flavours in every bite. This South Indian delicacy is a rendition of the popular snack, Murukku. Treat yourself to this deliciously twisty snack from Haldiram's!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/moorukulu-135.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moong Papad (200 g)",
+        "description": "Inclusive of all taxes  Discover the crunchy goodness of moong, flavoured with the traditional blend of pepper, red chillies and dry spices! Complete your traditional Indian meal with this versatile papad, which can be served roasted or fried, plain or topped with chopped veggies and masala.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/moong-dal-papad-200gms-409.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Badam Halwa (200 g)",
+        "description": "Inclusive of all taxes  Indulgent fudge squares bursting with the flavours of rich almonds and dry fruits. These appetizing sweets are the perfect way to welcome your guests for every occasion!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/badam-halwa-200gms-86.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Udad Papad (200 g)",
+        "description": "Inclusive of all taxes  \"Crispy accompaniment to almost every Indian meal, Udad Papad is made with the wholesome goodness of udad dal and cracked black pepper. Serve plain and roasted or fried to add extra taste and texture to your meals.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/udad-papad-1354.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Kashmiri Mix (200 g)",
+        "description": "Inclusive of all taxes   Light Mix Of Indian Snack With Cashew Nuts Ingredient Chick Peas Flour, Edible Vegetable Oil, Moong Lentils, Cashew, Potato, Cucumber Seed, Spinach, Salt , Dried Mango Powder, Red Chilli, Black Pepper, Acidity Regulator & Antioxida.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/kaju-kashmiri-mix-10.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mango Halwa (200 g)",
+        "description": "Inclusive of all taxes  Mango Halwa is a special Haldiram delicacy. Loaded with the finest dry fruits, this unique halwa is a rich treat fit only for you. As you bite through the halwa with crunchy nuts and flavor of mango, the halwa melts in your mouth and leaves behind a wonderful nutty aftertaste. This very special treat will add a sparkle to any festive celebration or occasion.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/mango-halwa-1280.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Methi Puri (200 g)",
+        "description": "Inclusive of all taxes   Crunchy crackers packed with the delicious aroma of methi and flavourful spices. A signature Haldiram's recipe, methi puris are the perfect addition to your snack jar.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/methi-puri-1151.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Namkeen Sticks (200 g)",
+        "description": "Inclusive of all taxes   Crispy namkeen sticks, made with the goodness of atta, these biscuits are delicately flavoured with salt and a dash of spices. Serve with spicy minth chutney or a cheese dip.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/namkeen-stick-1150.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bikaneri Bhujia (150 gms)",
+        "description": "Inclusive of all taxes  Spread it over poha, upma, chaat or have it as it is; this box of Bikaneri bhujia will take you to the familiar streets of Bikaner and remind you of their taste.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/bikaneri-bhujia-jar-1377.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Boondi Bhujia (150 gms)",
+        "description": "Inclusive of all taxes  These savoury dew bean and gram flour balls of joy coupled with & noodle snacks add a nice twist to the normal bhujia with this Boondi bhujia.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/boondi-bhujia-1376.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mini Bhakarwadi (200 g)",
+        "description": "Inclusive of all taxes  Delectable bite-sized besan rolls stuffed with delicious sweet and spicy coconut filling. Made with exotic sweet coconut stuffing, enhanced with the flavour of toasted spices, this namkeen is rightfully Maharashtra's favourite and the perfect snack of your dreams!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/mini-bhakarwadi-25.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Murukku (200 g)",
+        "description": "Inclusive of all taxes  A royal recipe from Tamil Nadu that combines nutritious rice flour and urad dal to make delightfully crispy twisties. Infused with a blend of traditional spices, these crunchy snacks will keep you coming back for more!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/murukku-26.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mini Samosa (200 g)",
+        "description": "Inclusive of all taxes  Reward yourself with these bite-sized, golden triangles stuffed with a spicy, flavourful filling. These miniature version of India's favourite snack has flaky crusts and extra delicious centres. It's an explosion of flavour waiting to happen!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/mini-samosa-22.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Masala Sticks (200 g)",
+        "description": "Inclusive of all taxes   Wholesome cracker sticks made with the goodness of atta and a dash of spices. These crunchy masala sticks are an answer to all your snacking needs!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/masala-stick-1149.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Masala Tit Bit (200 g)",
+        "description": "Inclusive of all taxes   Nibble-sized namkeen crackers flavoured with a blast of jeera, black pepper and red chilli masala, Haldiram's Masala Tit Bits are the ideal chai-time companions.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/masala-tit-bit-1148.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mathri (200 g)",
+        "description": "Inclusive of all taxes  Tangy accents of lemon and the flavourful heat from black pepper, ginger and cloves combine in these aromatic, buttery mathris. Made with the goodness of atta, Haldiram's Mathri is a true teatime indulgence.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/mathri-14.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Namkeen Tit Bit (200 g)",
+        "description": "Inclusive of all taxes   Bite-sized cracker squares that are equal parts salty and savoury, infused with the flavours of jeera and dry coriander. These namkeen biscuits are light and an appetizing addition to your tea-time.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/namkeen-tit-bit-1147.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Cake (Elaichi Flavour)",
+        "description": "Inclusive of all taxes  Soan Papdi re-invented as a soft, luxurious cake infused with a flavourful blast of cardamom and dry fruits. With every bite so rich and delicious, Soan Cake is an all-time favourite dessert from Haldiram's.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-cake-elaichi-flavour-326.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Papdi - Chocolate Flavour (250 g)",
+        "description": "Inclusive of all taxes  We remixed flaky, melt-in-your-mouth soan papdi and luxurious chocolate into the ultimate sweet treat. This delicate cotton candy confection dissolves in your mouth with a delicious burst of chocolatey goodness, making you reach for one more!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-papdi-chocolate-flavour-78.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Papdi (Orange Flavour)",
+        "description": "Inclusive of all taxes  Classic soan papdi featuring the refreshing flavour of fresh oranges. Equal parts of sweet and tangy, this Haldiram's original recipe is a tribute to the fresh harvests of our hometown - Nagpur. Grab a box of Orange Soan Papdi to treat the inner child in you!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-papdi-orange-flavour-329.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Papdi (Elaichi Flavour)",
+        "description": "Inclusive of all taxes  Luxurious, flaky cubes of besan and sweet milk that melt in your mouth. Intricately layered with the mouthwatering flavours of cardamom. This original cotton candy confection of India is a treat for the young and the old!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-papdi-elaichi-1478.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Mix (200 g)",
+        "description": "Inclusive of all taxes  A divine mix of dry fruits, crunchy moong beans, delicious poha, fried besan morsels and a variety of spicy namkeen. Haldiram's Dry Fruits Mix is made with the finest cashews, almonds, pistachios, apricots and raisins. Experience this complex burst of flavours with a cup of tea this evening.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/dry-fruit-mix-8.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Papdi - Coconut Flavour (250 g)",
+        "description": "Inclusive of all taxes  The all-time favourite soan papdi reinvented with a coconutty twist! Divine besan confection that melts in your mouth, with a delicious burst of coconut flavour and crunchy dry fruits. Treat your guests and loved ones to something extra special with Coconut Soan Papdi.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-papdi-coconut-flavour-79.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Orange Burfee",
+        "description": "Inclusive of all taxes  Soft fudge made with juicy, pulpy oranges, ash gourd and creamy milk. A tribute to the rich orange harvests of Nagpur, Haldiram's Orange Burfee is beloved by the young and the old alike. A perfect ending to a hearty meal with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/orange-burfee-1396-1.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chocolate Chip Cookies (250 g)",
+        "description": "Inclusive of all taxes  Live life at its Crunchiest with the perfect bite of Crunchy delight.\r\n\r\nPremium Quality\r\nHandmade Cookies\r\n100% Eggless",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/chocolate-chip-cookies-250gms-1724.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dal Tadka (300 g)",
+        "description": "Inclusive of all taxes  The original comfort food, Dal Tadka is a classic Haldiram's recipe that is equal parts wholesome and deliciousness. Enjoy the flavours of the original Indian Dal made with mildly spicy yellow lentils, tomatoes, onion, fresh green chillies & aromatic spices.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with rice/roti accompanied by tangy pickle or crunchy papad by Haldiram's",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/dal-tadka-1454.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Punjabi Choley (300 g)",
+        "description": "Inclusive of all taxes  Punjabi Chole is a classic Indian dish made with mildly spicy chickpeas cooked in an onion & tomato gravy. The aromatic spices balance the creaminess of the gravy. Savour the flavours of Punjab with this easy ready-to-eat rendition.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with chopped fresh onions, lemon wedges and deep-fried Bhature/Poori",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/punjabi-choley-453.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Punjabi Kadhi Pakoda (300 g)",
+        "description": "Inclusive of all taxes  Bengal gram flour cooked slowly in mildly spicy Yoghurt based curry.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/punjabi-kadhi-pakoda-300gms-1719.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dal Palak (300 g)",
+        "description": "Inclusive of all taxes  Palak (Spinach) and Toor Dal (Pigeon Pea Lentils) tempered with Green Chilles and Spice Oil.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dal-palak-300gms-1716.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dum Biryani (200 g)",
+        "description": "Inclusive of all taxes  Dum Biryani is an aromatic, iconic rice dish beloved by Indians across the globe. The Haldiram's Ready-To-Eat Dum Biryani is delicately flavoured with a blend of aromatic spices, cooked with fresh vegetables and steamed basmati rice.\r\n\r\nHaldiram's Recommendation:\r\nServe hot, topped with caramelized onions and a crunchy raita with Haldiram's Boondi on the side.",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/dum-biryani-451.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Nankhatai Cookies (250 g)",
+        "description": "Inclusive of all taxes  A crunchy twist on the classic nankhatai biscuits - made with desi ghee and the finest of cashew nuts. These plump discs of buttery atta cookies, bursting with the nutty flavour of kaju are an indulgent treat to your senses.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-nankhatai-cookies-143.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Pav Bhaji (300 g)",
+        "description": "Inclusive of all taxes  A classic Indian street food, this dish can be whipped up and savoured in minutes! Haldiram's Ready-To-Eat Pav Bhaji is made with spiced mashed vegetables in a potato base. Mouthwateringly delicious, indulge in this rich treat easily at home now!\r\n\r\nHaldiram's Recommendation:\r\nServe hot with chopped fresh onions, a dollop of butter and fresh pav",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/pav-bhaji-450.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajma Raseela (300 g)",
+        "description": "Inclusive of all taxes  Red Kidney beans with fresh aromatic spices cooked in onion and tomato based mildly spicy curry.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/rajma-raseela-300gms-1720.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dal Makhani (300 g)",
+        "description": "Inclusive of all taxes  One of the most iconic curries in India, Dal Makhani is a crowd favourite that gives a perfect Punjabi touch to your taste buds. This Haldiram's special recipe sets out to satisfy all your rich, creamy cravings with this delicious curry.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with fresh veggie raita and rice/roti",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/dal-makhani-1596.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Gorus Cookies (250 g)",
+        "description": "Inclusive of all taxes  Irresistible taste and wholesome nutrition in form of whole wheat cookies, handmade with desi ghee. The crunchy infusion of rich cashew nuts and flavourful elaichi make these cookies a household favourite for all occasions.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/gorus-cookies-141.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Papdi (Desi Ghee)",
+        "description": "Inclusive of all taxes  A lavish tradition of flaky soan papdi made with heavenly desi ghee. Every bite is an explosion of wholesome besan flavoured with cardamon. With the satisfying crunch of pistachios and almonds, Haldiram's Special Ghee Soan Papdi remains one of everyone's personal favourites.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-papdi-desi-ghee-331.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Paneer Makhani (300 g)",
+        "description": "Inclusive of all taxes  One of the most iconic curries in India, Paneer Makhani is a crowd favourite. This Haldiram's special recipe sets out to satisfy all your rich, creamy cravings with this delicious curry.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with fresh veggie raita and rice/roti",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/paneer-makhani-452.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Namkeen Tit Bit & Namkeen Sticks Combo",
+        "description": "Inclusive of all taxes   Bite-sized cracker squares that are equal parts salty and savory, infused with the flavors of jeera and dry coriander. These namkeen biscuits are light and appetizing in addition to your tea-time.\r\nCrispy namkeen sticks, made with the goodness of atta, these biscuits are delicately flavored with salt and a dash of spices. Serve with spicy minth chutney or a cheese dip.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chai-ke-sath-namkeen-combo-1639.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Masala Tit Bit & Masala Sticks Combo",
+        "description": "Inclusive of all taxes   Nibble-sized namkeen crackers flavored with a blast of jeera, black pepper, and red chili masala, Haldiram's Masala Tit-Bits are the ideal chai-time companions. \r\nWholesome cracker sticks made with the goodness of atta and a dash of spices. These crunchy masala sticks are an answer to all your snacking needs!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/chai-ke-sath-masala-combo-1640.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajgira Chikki Bar (360 g)",
+        "description": "Inclusive of all taxes  Haldiram's Rajgira Chikki Jar is a perfect share pack - split a chikki bar with your loved ones!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rajgira-chikki-jar-1585.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kala Khatta Squash (750 ml)",
+        "description": "Inclusive of all taxes  Nostalgic summer drink syrup made with fresh, tangy blackberries and spicy chaat masala. Combine the concentrate with chilled water or soda for a refreshing drink.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/kala-khatta-squash-32.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lemon Squash (750 ml)",
+        "description": "Inclusive of all taxes  Refreshingly tangy concentrate made with fresh and juicy lemons. Enjoy your favorite lemon soda or nimbu pani at home with this tangy-sweet syrup.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/lemon-squash-111.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Orange Squash (750 ml)",
+        "description": "Inclusive of all taxes  Enjoy the taste of freshly squeezed oranges with our tangy-sweet concentrate, a refreshing tribute to the rich harvests of Nagpur.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/orange-squash-30.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Pineapple Squash (750 ml)",
+        "description": "Inclusive of all taxes  Taste the natural sweetness of fresh pineapples with our authentic fruit concentrate. Serve blended with chilled water or soda.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/pineapple-squash-31.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Palak Paneer (300 g)",
+        "description": "Inclusive of all taxes  Curry made with Fresh Chunks of Paneer simmered in a spinach curry flavoured with mild spices.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/palak-paneer-300gms-1718.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mutter Paneer (300 g)",
+        "description": "Inclusive of all taxes  Green Peas and Indian Cottage Cheese with Fresh Aromatic Spices cooked in Onion and Tomato based spicy curryServes - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.P",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/mutter-paneer-300gms-1717.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajma Chawal (350 g)",
+        "description": "Inclusive of all taxes  Makes today's meal special with the most loved Punjabi vegetarian curry, consisting pf red kidney beans in a thick tomato gravy with many whole spices and a side of steamed long grain basmati rice.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/rajma-chawal-350gms-1713.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Double Joy",
+        "description": "Inclusive of all taxes-  Double Joy is a Haldiram's Sweets Combo that gives you double the fun! Enjoy the mouth-watering combination of delectable Soan Papadi and luscious Badam Halwa in one awesome and festive package!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/double-joy.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Khus Sharbat (750 ml)",
+        "description": "Inclusive of all taxes  Cooling herb concentrate made with khus grass (vetiver). Combine with chilled water or milk to make an aromatic, medicinal drink - an essential for hot summers.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/khus-sharbat-36.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rose Sharbat (750 ml)",
+        "description": "750 ml\r\nInclusive of all taxes  A floral concoction made with natural rose petals. This versatile syrup can be whipped into a refreshing sharbat or blended with milk to make a delicious milkshake.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rose-sharbat-37.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Cake - Premium Pack (400 g)",
+        "description": "Inclusive of all taxes  Soan Papdi re-invented as a soft, flaky cake, flavoured with the richness of almonds and pistachios. Made with premium ingredients, these delicate cakes are infused with the royal flavour of elaichi and saffron. Share this signature Haldiram's treat with your loved ones!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-cake-premium-pack-1302.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mango Panna Squash (750 ml)",
+        "description": "Inclusive of all taxes  Cool off this summer with this energizing aam panna syrup made with green mango pulp and sugar syrup - the perfect balance of sweet and sour!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/mango-panna-squash-112.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Choley Chawal (350 g)",
+        "description": "Inclusive of all taxes  Choley Chawal is a classic Indian dish made with whole chick peas with green chillies and aromatic spices cooked in a tangy tomato curry. Enjoy the taste of lip smacking choley on the side of steaming, full grain, basmati rice.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/choley-chawal-350gms-1712.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Masala Peanuts (200 g)",
+        "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in several spices, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/masala-peanuts-standy-1732.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Salted Peanuts (200 g)",
+        "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in some salt, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/salted-peanuts-standy-1730.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "All In One (200 g)",
+        "description": "Inclusive of all taxes  A unique blend of spices, sweet and a whole lot of crunch! Crunchy cornflakes, dried nuts, raisins and our trademark crispy namkeen combine to make this irresistible, lip-smacking snack.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/all-in-one-standy-1438.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Aloo Bhujia (200 g)",
+        "description": "Inclusive of all taxes  The ultimate comfort snack - spicy potato and besan noodles that will keep you coming back for more! This classic Haldiram's offering is perfect to top your salads, chaats and bhel.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/aloo-bhujia-standy-1592.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chana Choor (200 g)",
+        "description": "Inclusive of all taxes  Delicious bits of spicy and rich chana dal, a mouthwatering delicacy from the house of Haldiram's. Serve with freshly chopped tomatoes, onions and a dash of lime juice to whip up a nutritious evening snack.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chana-choor-standy-1440.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chana Nuts (200 g)",
+        "description": "Inclusive of all taxes  All Time Salted Snack Of Fried Mung Lentils. Ingredients : Chick Peas, Peanuts, Edible Vegetable Oil, Red Chilli, Salt, Black Salt, Black Pepper, Acidity Regulator & Antioxidant (E 330), Sugar, Cardamom, Cumin, Dry Mango Powder, Coriander Powder, Ani Seed, Fenugreek Seed, Cinnamon, Dry Ginger Powder, Nutmeg, Clove Powder, Turmeric Powder, Garlic Powder, Tamarind Powder, Bay Leaf & AsafoetidaContains PeanutMay Contain Other Tree Nuts, Gluten & Sesame Seed.",
+        "special_features": [
+          "Vegetarian / Vegan option",
+          "Spicy",
+          "Contains allergen information"
+        ],
+        "product_url": "https://www.haldirams.com/chana-nuts-standy-1450.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chatpata Dal (200 g)",
+        "description": "Inclusive of all taxes  Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and spicy. These tangy, crunchy lentils are flavoured with a blast of spices and add texture to every meal. This snack is exactly what you need after a long day!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chatpata-dal-standy-1447.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Khatta Meetha (200 g)",
+        "description": "Inclusive of all taxes  Deliciously sweet and sour, this mix of fried green peas, boondi, lemon sev and classic namkeen is an extraordinary treat to your senses. Give your teatime an ideal companion, that's perfectly tangy and sweet!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/khatta-meetha-standy-1442.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lite Chiwda (200 g)",
+        "description": "Inclusive of all taxes  A scrumptious combination of flaky poha, crispy boondi and spicy sev, Lite Chiwda is a great option for a snacking indulgence, even while on a diet!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/lite-chivda-standy-1444.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moong Dal (200 g)",
+        "description": "Inclusive of all taxes  Split moong beans coated in a delectable selection of spices. An all-time favourite offering from Haldiram's, you don't need a special time or occasion to snack on these!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/moong-dal-standy-1445.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Farali Chiwda (200 g)",
+        "description": "Inclusive of all taxes  A wholesome mix of fried potato sticks, crunchy peanuts and Haldiram's trademark masala, Phalhari Chiwda is made with quality ingredients. Stock up on this tasty essential for teatime snacking and a quick meal when fasting.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/phalhari-chivda-standy-1441.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soya Sticks (200 g)",
+        "description": "Inclusive of all taxes  Discover the goodness of chatpata, crispy sticks of protein-rich soya with this Haldiram's original recipe. A healthier alternative to the typical potato chips or wafers, these crispies are wholesome and filling. Pair your evening coffee with Haldiram's Soya Sticks.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soya-stick-standy-1443.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Spicy Peanuts (200 g)",
+        "description": "Inclusive of all taxes  Taking the taste of peanuts, a notch higher, this spicy peanuts pack is a goto item for every party lover. Tossed in a spicy mix, this peanut pack never goes out of choice.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/spicy-peanuts-standy-1455.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Tasty Nuts (200 g)",
+        "description": "Inclusive of all taxes  A signature Haldiram's recipe featuring irresistible coated peanuts. The delicious nutty flavour and masaledaar besan crust make these crispies a hit with the young and old alike!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/tasty-nuts-standy-1446.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Boondi Ladoo (250 g)",
+        "description": "Inclusive of all taxes Golden pearls of gram flour cooked in pure desi ghee, with cashews and raisins, shaped into round dessert balls. Boondi Ladoo is a timeless sweet treat and a classic festive essential beloved by the young and old.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/boondiladdu-250.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Orange Burfee (250 g)",
+        "description": "Inclusive of all taxes  Soft fudge made with juicy, pulpy oranges, ash gourd and creamy milk. A tribute to the rich orange harvests of Nagpur, Haldiram's Orange Burfee is beloved by young and the old alike. A perfect ending to a hearty meal with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/orange-burfee-0-250kg.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Soan Cake (Multi Flavour) (400 g)",
+        "description": "Inclusive of all taxes  Soan papdi re-invented as soft, flaky, textured cakes fused with a variety of flavours and nuts. Every bite is so delicate and flavourful, it brings your childhood memories flooding back in. \r\nThis gift box includes:\r\nâ€¢ Soan Cake Orange\r\nâ€¢ Soan Cake Mango \r\nâ€¢ Soan Cake Chocolate\r\nâ€¢ Soan Cake Pineapple",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/soan-cake-multi-flavour-1111.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Ladoo",
+        "description": "Inclusive of all taxes  \r\n\r\nNourishing sweet treats made with deliciously crunchy almonds, cashew nuts and pistachios. Bound by the goodness of atta (whole wheat flour) and infused with the sweet flavour of cardamom, these ladoos are a terrific way to bring in the festivities.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dry-fruit-ladoo-1417.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Besan Ladoo",
+        "description": "Inclusive of all taxes  Wholesome besan roasted in pure desi ghee, and shaped into delicious dessert balls - just how grandma used to make them! This delicious sweet treat delivers a healthy dose of nutritional benefits and childhood memories.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/besan-ladoo-1420.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajasthani Peda (250 g)",
+        "description": "Inclusive of all taxes A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rajasthani-peda-250gm.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moti Choor Ladoo",
+        "description": "Inclusive of all taxes Featuring besan bits and chopped dry fruits, cooked in pure desi ghee and shaped into deliciously round ladoos. Haldiram's Moti Choor is delicately flavoured with royal saffron and elaichi. This irresistible favourite will have you reaching for more!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/moti-choor-laddu.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Moong Burfee",
+        "description": "Inclusive of all taxes   Delightful squares of moong dal fudge with crunchy almonds and cardomon, giving it a delicious edge. Haldiram's Moong Burfee is a classic recipe enhanced by the flavours of saffron. Share this satisfying treat with your family and friends, anytime and anywhere!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/moong-dal-burfee-1416.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mysore Pak",
+        "description": "Inclusive of all taxes  Complex flavours and simple textures are combined in this classic Mysore Pak recipe, to make a beloved sweet delicacy. Haldiram's Milk Mysore Pak is a signature recipe made with desi ghee and gram flour. This milky confection is a perfect end to any meal with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/southindian-mysore-pak.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dal Makhani Chawal (350 g)",
+        "description": "Inclusive of all taxes  Whole black lentils simmered with butter and fresh cream in a tomato based mildly spicd curry.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/dal-makhani-chawal-350gms-1714.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Matka Jhatka Chaas - (180ml - Pack of 15)",
+        "description": "Inclusive of all taxes   Refreshingly spiced buttermilk - made with the creamiest yoghurt, infused with the delicious flavours from our traditional spice blend. Re-energize on the go with our convenient ready-to-drink tetra pack.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/chaas-matka-jhatka-1345.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Thanda Funda - Chocolate Milk (180ml - Pack of 12)",
+        "description": "Inclusive of all taxes",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/thanda-funda-chocolate-po6-1729.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Thanda Funda - French Vanilla Milk (180ml - Pack of 12)",
+        "description": "Inclusive of all taxes",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/thanda-funda-vanilla-po6-1728.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Inclusive of all taxes  Gulab Jamun is a classic sweet dish favoured by the young and old alike. After all, a wedding buffet, birthday celebration or even religious function cannot be complete until the guests have been served the warm, sticky and absolutely mouth-watering delights of Gulab Jamuns.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/gulab-jamun-1101.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Sweet Wonder (1 kg)",
+        "description": "Inclusive of all taxes  \"Two of Haldiram's legendary offerings in a wonderful gift pack. Indulge in the exquisite pleasures of soft, juicy gulab jamuns and royally rich rasgullas this festive season.\r\n\r\nThe gift box includes: \r\nâ€¢ Gulab Jamun\r\nâ€¢ Rasgulla \"",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/sweet-wonder-1279.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Cham Cham (1 kg)",
+        "description": "Inclusive of all taxes  Decadent chenna (fresh curd cheese) dumplings soaked in sweet syrup flavoured with rose, saffron and cardamoms. A Haldiram's classic offering, Cham Cham never goes out of style! Roll them in some desiccated coconut to enjoy this Bengali authenticity.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/cham-cham-27.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajbhog (1 kg)",
+        "description": "Inclusive of all taxes  Luxurious almonds and pistachios wrapped in spongy chenna (fresh curd cheese) a treat fit for the royals! Rajbhog enhances the taste of rasgullas with the essence of saffron and cardamom. Treat your guests to this indulgence after a hearty meal.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rajbhog-28.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Thanda Funda - Kesar Milk (180ml - Pack of 12)",
+        "description": "Inclusive of all taxes",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/thanda-funda-kesar-badam-milk-po6-1727.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Thanda Funda - Badam Thandai Milk (200ml - Pack of 6)",
+        "description": "Inclusive of all taxes",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/thanda-funda-badam-thandai-po6-1726.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Sangam Burfee (250 g)",
+        "description": "Inclusive of all taxes  A box full of delicious mithai delicately prepared by the ones giving India sweet dreams since 1937. Every bite of Haldiram's tender mithai will fill your life with rich flavours and send you back in time, to the royal feasts of Maharajas.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-sangam-burfee-250gms-1725.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bikaneri Katran Papad (1 kg)",
+        "description": "Inclusive of all taxes  Bikaneri Papad celebrates the rich history of Haldiram's Bikaneri origins. Taste the authentic flavours of Rajasthan with each crunchy bite as your culinary senses will be transported to the historic and radiant climes of Rajasthan.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/bikaneri-katran-papad-1591.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Jal Jeera-Party Pack (180ml - Pack Of 15)",
+        "description": "Inclusive of all taxes   The striking flavours of jeera, aamchur and fresh mint blend together in this energizing, ready-to-consume summer drink from your childhood.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/jal-jeera-1434.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bhujia Sev Jar (600 g)",
+        "description": "Inclusive of all taxes  Haldiram's Bhujia Sev is an authentic rendition of the classic namkeen - crispy gram flour sticks. Lip-smackingly flavourful, this special edition pack is made from our director's secret recipe. Share with your loved ones over a cup of tea, or top it on a steaming bowl of upma, poha or chaats.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/bhujia-sev-jar-1449.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mini Kaju Katli (250 g)",
+        "description": "Inclusive of all taxes   Smooth and creamy diamond-shaped slices of royal cashew goodness. Haldiram's Kaju Katli is made with quality cashews, thick milk and edible silver foil. This festive favourite is an indulgent treat made to share with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/mini-kaju-katli-1405.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Cashew Jar (200 g)",
+        "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/cashew-jar-1472.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Roll",
+        "description": "Inclusive of all taxes  Flavours of pistachios and cardamom wrapped in a soft, indulgent layer of cashew nut fudge. Haldiram's Kaju Roll is a signature dessert made with only the finest of cashews! Treat your loved ones to something extra special this festive season.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-roll-1401.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Boondi Ladoo (500 g)",
+        "description": "Inclusive of all taxes  Golden pearls of gram flour cooked in pure desi ghee, with cashews and raisins, shaped into round dessert balls. Boondi Ladoo is a timeless sweet treat and a classic festive essential beloved by the young and old.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/boondi-ladoo-104.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chai Ke Sath All Packs Combo",
+        "description": "Inclusive of all taxes   The spicy & salty chai time snacks flavored with a blast of jeera, black pepper, and red chili masala, methi and irresistable homely taste. Haldiram's Chai Ke Sath All Packs Combo come with a full range of tea time snacks specially preapared to uplift the taste of anytime tea.",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/chai-ke-sath-all-packs-combo-1641.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lavish Delight",
+        "description": "Inclusive of all taxes-  \"A delightful assortment of our traditional delicacies and contemporary creations. Treat your loved ones to a memorable gift with our delight collection of crunchy Bhakarwadis, spongy Rasgulla, delicious namkeen Panchratan Mix and melt in your mouth Soan Papdi.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/lavish-delight.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Raisins Jar (250 g)",
+        "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/raisins-jar-1471.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajasthani Peda (500 g)",
+        "description": "Inclusive of all taxes  A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rajasthani-peda-1362.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Pinni (500 g)",
+        "description": "Inclusive of all taxes  Milky, melt in your mouth confection made with the goodness of whole wheat, stuffed with crunchy nuts and cucumber seeds. This authentic sweet from Punjab is indulgently delicious and loaded with nutrition. Reward yourself with this extraordinary treat!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/pinni-100.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Rajasthani Peda",
+        "description": "Inclusive of all taxes A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/rajasthani-peda.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Badam Katli (250 g)",
+        "description": "Inclusive of all taxes   Rich and Diamond-shaped burfee slices made from handpicked almonds and topped with silver leaf.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/badam-katli-250gms-1722.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Chocolate Ladoo (250 gms)",
+        "description": "Inclusive of all taxes New avatar of ladoo is here - fine cashews and decadent chocolate rolled into delicious dessert balls. This signature Haldiram's recipe makes a wonderful personal treat for the young ones and the old alike!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-chocolate-ladoo-250gms.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Bites (200 g)",
+        "description": "Inclusive of all taxes  Based on the classic fudge recipe, this assortment of bite-sized squares is packed with the natural flavours of dates, figs, nuts and creamy milk. Grab a pack of Haldiram's Dry Fruit Bites to discover this wholesome goodness!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dry-fruit-bites-122.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Patisa (500 g)",
+        "description": "Inclusive of all taxes  The softer, creamier avatar of the classic soan papdi, Patisa is deliciously indulgent. This flakey cube is made with wholesome besan and finely chopped pista, cooked in divine desi ghee. Makes you want to skip right to the desserts!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/patisha-99.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Almond Jar (250 g)",
+        "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/almod-jar-1473.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Flavourful Fusions - Ghee (500 g)",
+        "description": "Inclusive of all taxes  Flavourful combination of Moong Burfee, Mysore Pak, Dodha Burfee. The best choice to satisfy your sweet tooth",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/flavourful-fusions-ghee-500gms-1654.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Pistachios Jar (200 g)",
+        "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/pistachios-jar-1470.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Assorted Baklava Sweets (300 g)",
+        "description": "The true taste of Desire",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/baklava-300gms-1595.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Milk Cake",
+        "description": "Inclusive of all taxes A classic Indian Sweet , Prepared with milk and sugar , enriched with the flavours of cardamom",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/milk-cake.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Chocolate Hamper",
+        "description": "Inclusive of all taxes  Assorted Chocolate Tokani is the perfect way to mark the arrival of the festive season. A truly indulgent gift for chocolate lovers, this assorted box comprises of 5 star crunchy, cadbury silk chocolate, perk, rite bite.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/assorted-chocolate-tokani-small.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Anjeer Dryfruit Burfee",
+        "description": "Inclusive of all taxes  A luxurious combination of distinctive textures and flavours of almonds, pistachios, cashews and figs. Reward yourself with Haldiram's Anjeer Dry Fruits Burfee, a delicious powerhouse of energy that keeps you going between meals.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/anjeer-dryfruit-burfee-1755.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Khajur Dryfruit Laddu-500 g",
+        "description": "Nutritious dry fruit ladoos rolled in desiccated dates. Haldiram's Khajur Dry Fruits Ladoo combines dry fruits and dates to create a crunchy, and sweet treat. Who says ladoos can't be healthy?",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/khajur-dryfruit-ladoo-203.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Lite Namkeen Combo",
+        "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Lite Namkeen Combo. This 3-pack bundle comes with a premium package of Aloo Bhujiya, Phalhari & Lite Chiwda (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/holi-special-combo.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Spicy Namkeen Combo",
+        "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Spicy Namkeen Combo. This 3-pack bundle comes with a premium package of Spicy Peanut,Masala Peanut & Chana choor (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+        "special_features": [
+          "Spicy"
+        ],
+        "product_url": "https://www.haldirams.com/spicy-holi-combo.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Tangy Namkeen Combo",
+        "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Tangy Namkeen Combo. This 3-pack bundle comes with a premium package of Aloo Bhujiya, Khatta Meetha & Soya Sticks (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/tangy-holi-combo.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Assorted Chocolate Tokani (Medium)",
+        "description": "Inclusive of all taxes  Assorted Chocolate Tokani is the perfect way to mark the arrival of the festive season. Packed with chocolatey delights loved by children and grownups alike, this assorted box comprises of Dairy Milk, Cadbury silk, munch, 5 Star, perk, Choco Delight",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/assorted-chocolate-tokani-medium.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Pista Bite Cake",
+        "description": "Inclusive of all taxes  Round bites of indulgent pistachios and almond set in a creamy fudge base, bursting with the flavour of saffron and crunchy nuts. This original Haldiram's treat is an ideal gift for your loved ones this festive season.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/pista-bite-cake-230.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Mewa Bites",
+        "description": "Inclusive of all taxes  Bite-sized melt in your mouth squares, based on the classic soan papdi recipe. Packed with the robust flavour of cashews, nuts and creamy milk, this original Haldiram's confection will keep you coming back for more!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/mewa-bite-266.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Strawberry Bites",
+        "description": "Inclusive of all taxes  Made from Maharashtra's finest strawberries, this is a bite-sized sweet delicacy from the house of Haldiram's. Strawberry Bite retains the quintessential flavour of the fruit as it folds into a soft and creamy milk base.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/strawberry-bite-262.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Choco Bites",
+        "description": "Inclusive of all taxes  Meet the dream team: Chocolates and nuts are combined in this dessert based on the classic fudge recipe. Taste the richness of almonds and cashews with every bite of this chocolatey delight. This delicate sweet is a perfect dessert to be served to an intimate gathering of family and friends.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/choco-bite-286.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Date Bites",
+        "description": "Inclusive of all taxes  Bite-sized original sweets made with the finest of dates and rich dry fruits. Every fudge square is bursting with the rich flavour of khajur and the crunchy texture of chopped almonds and cashews. These confections make wonderful gifts or personal treats with great pleasure.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/date-bite-282.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Orange Bites",
+        "description": "Inclusive of all taxes  Bite-sized squares exploding with tangy, juicy goodness of fresh oranges and the crunchiness of almonds and cashew. This original recipe features the best of citrusy sweet oranges from Nagpur, and is a guaranteed hit with children and adults alike!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/orange-bite-278.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Fancy Dry Fruit Box (TT)",
+        "description": "Inclusive of all taxes  Dry Fruit Box, as the name suggests, is a rich assortment of Haldiram's dry fruits. This is a truly exotic dry fruit box to gift to large families or friend groups!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/fancy-dry-fruit-box-tt-1112.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Chocolate Roll",
+        "description": "Inclusive of all taxes Luxurious and chocolatey cashews wrapped in indulgent chocolate shavings. Haldiram's Kaju Chocolate Roll is a signature dessert made to satisfy your chocolate and cashew nut cravings, all at once!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-chocolate-roll.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Tokani (400 g)",
+        "description": "Inclusive of all taxes  Dry Fruit Tokni is a beautiful assortment of Almonds, Cashews, Pistachios and Kish Mish. This delightful tokni is available in two sizes and can be served or gifted during any special occasion!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dry-fruit-tokani-1474.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Kaju Chocolate Ladoo",
+        "description": "Inclusive of all taxes New avatar of ladoo is here - fine cashews and decadent chocolate rolled into delicious dessert balls. This signature Haldiram's recipe makes a wonderful personal treat for the young ones and the old alike!",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/kaju-chocolate-ladoo.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Assorted Dry Fruit Bites (350 g)",
+        "description": "Inclusive of all taxes  An assortment of bite-sized treats made with luscious dry fruits, these squares are loaded with the goodness of rich almonds, cashews, dates, pistachios and anjeer. This special selection will leave you spoilt for choice! Dry Fruits Bites is a wonderful gifting and personal treat pack for your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/assorted-dry-fruit-bites-1129.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Assorted Dry Fruit Bites",
+        "description": "Inclusive of all taxes An assortment of bite-sized treats made with luscious dry fruits, these squares are loaded with the goodness of rich almonds, cashews, dates, pistachios and anjeer. This special selection will leave you spoilt for choice! Dry Fruits Bites is a wonderful gifting and personal treat pack for your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/assorted-dry-fruit-bites.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Classic Relish- Dry Fruit Box (500 g)",
+        "description": "Inclusive of all taxes   A luxurious mixed box of the finest dry fruits and nuts from the house of Haldiram's. Treat your loved ones to the elite delight of almonds, cashews, pistachios and raisins.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/classic-relish-145.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Box ( GG )",
+        "description": "Inclusive of all taxes  Arrival Of Festival Season & To Welcome & Celebrate The Season With Families & Friends. We Have Bought Festival Packs For You In Attractive & Affordable Price Range.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dry-fruit-box-gg.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Dry Fruit Tokani (800 g)",
+        "description": "Inclusive of all taxes  A premium assortment of fine almonds, cashews, pistachios and raisins. This truly indulgent basket is a perfect gift for your loved ones and extended family this festive season.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/dry-fruit-tokani-medium-1474.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Royal Relish- Dry Fruit Box (750 g)",
+        "description": "Inclusive of all taxes  A deluxe assortment of rich, luxurious almonds, cashews, pistachios, apricots, figs and raisins. Celebrate this festive season with a curated pack made just to share with your loved ones.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/royal-relish-375.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Regal Relish - Dry Fruit Box (900 g)",
+        "description": "Inclusive of all taxes  This royal dry fruit box is an ideal gift for every occasion. The hamper contains one jar each of cashews, almonds, raisins, and pistachios. Perfect for those who want to enjoy some healthy treat.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/regal-relish-1369.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Papad Chavanu (200 g)",
+        "description": "Description not available",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/papad-chavanu-200-gms-200-gm.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Bikaneri Papad",
+        "description": "Inclusive of all taxes   Thin, crunchy papad created using the bold flavours of dry coriander and jeera, adding a flavourful Punjabi twist! Serve plainly roasted, topped with chopped vegetables or as a fried accompaniment with a delicious meal.",
+        "special_features": [
+          "Vegetarian / Vegan option"
+        ],
+        "product_url": "https://www.haldirams.com/bikaneri-papad-1.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "All in One",
+        "description": "Inclusive of all taxes  A unique blend of spices, sweet and a whole lot of crunch! Crunchy cornflakes, dried nuts, raisins and our trademark crispy namkeen combine to make this irresistible, lip-smacking snack.",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/all-in-one.html",
+        "price": null,
+        "category": "Uncategorised"
+      },
+      {
+        "item_name": "Fancy Dry Fruits Tokni (A1)",
+        "description": "Inclusive of all taxes  A premium assortment of fine almonds, cashews, pistachios and raisins. This truly indulgent basket is a perfect gift for your loved ones and extended family this festive season",
+        "special_features": null,
+        "product_url": "https://www.haldirams.com/fancy-dry-fruits-tokni-a1.html",
+        "price": null,
+        "category": "Uncategorised"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1699 @@
+{
+  "restaurant_name": "Haldiram's",
+  "location": "India",
+  "opening_hours": null,
+  "contact_info": null,
+  "scrape_source": "https://www.haldirams.com/media/sitemap/sitemap.xml",
+  "item_count": 199,
+  "items": [
+    {
+      "item_name": "Savories",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/savories.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Namkeen",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/savories/namkeen.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Papad",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/savories/papads.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chai Ke Saath",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/savories/chai-k-saath.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Sweets",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Packed Sweets",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/packed-sweet.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Exotic Collection",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/exotic-collection.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Tin Sweets",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/tin-sweets.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Beverages",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/beverages.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Cookies",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/cookies.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Ready to Eat",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/ready-to-eat.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Gifting",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/holi-special/gifting.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bestsellers",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/bestselling-products.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "New Arrivals",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/new-arrivals.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "E-Coupons",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/coupons.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Ghee",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/ghee.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Flash Sale",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/festive-special.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Namkeen",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/holi-special/gifting/namkeen.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "No Added Sugar",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/no-added-sugar.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruits",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/corporate-gifting/dry-fruits-collection.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Gifting",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/corporate-gifting/festive-gift-hamper-collection.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Haldiram Premium",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/haldiram-premium.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Fresh Pops",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/mukhwas.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Festive Treats",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/festive-treats.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Signature Collection",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweets-73/signature-collection.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Eid Special",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/eid-special.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Ready to Cook",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/ready-to-cook.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bhujia Sev",
+      "description": "Inclusive of all taxes  Deliciously crisp besan sticks, flavoured with a blast of red chilli and garam masala. Haldiram's Bhujia is an authentic rendition of the classic, textured namkeen. Reach for a pack at teatime or top it on a steaming bowl of upma, poha or chaats.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/bhujia-sev-60.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bhel Puri",
+      "description": "A generous mix of crispy sev, bhel, and potato bits, Haldiram's Bhel Puri is a lip-smacking take on India’s beloved street food. \r\n\r\nPerfect on its own or whipped up with some chopped fresh onions and tomatoes, the authentic Mumbai style.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/bhel-puri-311.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Aloo Bhujia",
+      "description": "Inclusive of all taxes  The ultimate comfort snack - spicy potato and besan noodles that will keep you coming back for more! This classic Haldiram's offering is perfect to top your salads, chaats and bhel.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/aloo-bhujia-56.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moong Dal",
+      "description": "Inclusive of all taxes  Split moong beans coated in a delectable selection of spices. An all-time favourite offering from Haldiram's, you don't need a special time or occasion to snack on these!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/moong-dal-322.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Agra Taj Petha",
+      "description": "Inclusive of all taxes  Soft, chewy cubes of candied winter melon, straight from the land of Taj Mahal! This fruity, sugary confection is a guaranteed hit with the young and old alike. Treat your guests and loved ones to something extra special with our Agra Taj Pethas.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/agra-taj-petha-94.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Punjabi Papad",
+      "description": "Inclusive of all taxes   Thin, crunchy papad created using the bold flavours of dry coriander and jeera, adding a flavourful Punjabi twist! Serve plainly roasted, topped with chopped vegetables or as a fried accompaniment with a delicious meal.",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/amritsari-punjabi-papad-45.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Corn Flakes Mixture",
+      "description": "Inclusive of all taxes  Crispy cornflakes, rich dry fruits and spicy namkeen, blended into the ultimate snack! Generously drizzled with flavourful spices, this original mix is deliciously filling. Haldiram's Corn Flakes Mix beats the peskiest hunger pangs!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/conflex-mixture-63.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rasgulla",
+      "description": "Inclusive of all taxes  \"Juicy, fluffy, soft dumplings of chenna (fresh curd cheese) soaked in pistachos flavoured sweet syrup. Dig into this indulgent goodness with our Rasgulla tin and treat yourself to the most authentic Bengali experience.\r\n\"",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rasgulla-52.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dodha Burfee",
+      "description": "Inclusive of all taxes  Thick, creamy milk fudge made with desi ghee, generously topped with shredded coconut and crunchy cashews. This classic offering from Punjab is indulgently delicious and loaded with nutrition. Enjoy this timeless traditional sweet treat of Haldiram's Dodha Burfee!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dodha-burfee-1422.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Katli",
+      "description": "Inclusive of all taxes  Smooth and creamy diamond-shaped slices of royal cashew goodness. Haldiram's Kaju Katli is made with quality cashews, thick milk and edible silver foil. This festive favourite is an indulgent treat made to share with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-katli-haldirams.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Flavourful Fusions - Milk (500 g)",
+      "description": "Inclusive of all taxes  Flavourful combination of KajuSangamBurfee, DudhKhajoorBurfee, MawaGilori. The best choice to satisfy your sweet tooth",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/flavourful-fusions-milk-500gms-1648.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Flavourful Fusions - Kaju (500 g)",
+      "description": "Inclusive of all taxes  Flavourful combination of Kaju Katli, kaju Roll and Kaju Chocolate ladoo. The best choice to satisfy your sweet tooth",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/flavourful-fusions-kaju-500gms.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Vermicelli",
+      "description": "Inclusive of all taxes  A versatile base ingredient for a variety of Indian meals, from breakfast to dessert. These thin noodle alternatives make creamy sweet kheers, spicy upmas and delicious pulao as well.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/vermicelli-349.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lemon Bhel (200 g)",
+      "description": "Inclusive of all taxes  Lip-smacking Bhel  Puri in a tangy avatar! The citrusy juice of fresh lemons whipped into a combination of crackly bhel, chana and crispy sev. Serve with chopped tomatoes and onions for a delicious evening snack.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/lemon-bhel-12.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Punjabi Tadka (200 g)",
+      "description": "Inclusive of all taxes  Crunchy gram flour sticks enhanced with the goodness of ground coriander, jeera and garam masala. Classic sev featuring a Punjabi twist, this wholesome snack is the perfect teatime companion!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/punjabi-tadka-19.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Khatta Meetha",
+      "description": "Inclusive of all taxes  Deliciously sweet and sour, this mix of fried green peas, boondi, lemon sev and classic namkeen is an extraordinary treat to your senses. Give your teatime an ideal companion, that's perfectly tangy and sweet!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/khatta-meetha-67.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mixture",
+      "description": "Inclusive of all taxes  A mouthwatering mix of spicy treats and chatpata namkeen. Haldiram's Mixture is made with crunchy peanuts, roasted green peas, and sev. This scrumptious snack is the ultimate accompaniment with drinks at teatime.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/mixture-70.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Aloo Lachha (100 g)",
+      "description": "Inclusive of all taxes  Crunchy, spiced potato sticks flavoured with a blast of red chilli, pepper and freshly ground jeera. The perfect addition to your teatime and traditional meals, these crispy mouth-watering snacks are an all-time favourite offering from Haldiram's.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/aloo-lachha-1457.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Ratlami Sev (200 g)",
+      "description": "Inclusive of all taxes  Crispy, fried sticks made with nutritious chickpea flour and a signature blend of Haldiram's finest spices. A unique twist on the classic flavours of Bikaner, Ratlami Sev is an ideal teatime companion on its own, or top it on upma, sprout salads and poha for that extra kick of flavour.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/ratlami-sev-20.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Roasted Chana (200 g)",
+      "description": "Inclusive of all taxes  Irresistible, toasted chanas loaded with Haldiram's special masala mix. This crunchy, spicy snack is highly addictive and an extraordinary treat to your senses.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chana-cracker-315.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dal Biji (200 g)",
+      "description": "Inclusive of all taxes  A delicious mix of crunchy besan sev, lentils, and fresh muskmelon brought together with a flavourful blast of spices. With a recipe dating back to generations, Dal Biji is mouthwateringly unique and retains the authentic taste of Indian flavours.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dal-biji-412.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Fatafat Bhel (100 g)",
+      "description": "Inclusive of all taxes   You can enjoy India's most favourite street-food without actually going to the streets. This box of flavors comes with three sachets of chutneys inside. So open, mix and enjoy!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/fatafat-bhel-1328.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chana Jor Garam (200 g)",
+      "description": "Inclusive of all taxes  Delicious bits of spicy and rich chana dal, a mouthwatering delicacy from the house of Haldiram's. Serve with freshly chopped tomatoes, onions and a dash of lime juice to whip up a nutritious evening snack.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chana-jor-garam71.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lite Chiwda (200 g)",
+      "description": "Inclusive of all taxes  A scrumptious combination of flaky poha, crispy boondi and spicy sev, Lite Chiwda is a great option for a snacking indulgence, even while on a diet!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/lite-chivda-13.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Boondi (200 g)",
+      "description": "Inclusive of all taxes  Small and round bits of spicy besan batter, bursting with the flavour of red chillies. Boondi makes an excellent crunchy topping to various food items and beverages.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/boondi-9.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Farali Chiwda (200 g)",
+      "description": "Inclusive of all taxes  A wholesome mix of fried potato sticks, crunchy peanuts and Haldiram's trademark masala, Phalhari Chiwda is made with quality ingredients. Stock up on this tasty essential for teatime snacking and a quick meal when fasting.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/phalhari-chivda-18.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Golden Mix (200 g)",
+      "description": "Inclusive of all taxes  Golden Mix - Surti Farsan",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/papad-chavanu-200g-1708.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chana Nuts (200 g)",
+      "description": "Inclusive of all taxes  All Time Salted Snack Of Fried Mung Lentils. Ingredients : Chick Peas, Peanuts, Edible Vegetable Oil, Red Chilli, Salt, Black Salt, Black Pepper, Acidity Regulator & Antioxidant (E 330), Sugar, Cardamom, Cumin, Dry Mango Powder, Coriander Powder, Ani Seed, Fenugreek Seed, Cinnamon, Dry Ginger Powder, Nutmeg, Clove Powder, Turmeric Powder, Garlic Powder, Tamarind Powder, Bay Leaf & AsafoetidaContains PeanutMay Contain Other Tree Nuts, Gluten & Sesame Seed.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Contains allergen information"
+      ],
+      "product_url": "https://www.haldirams.com/chana-nuts-314.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Tasty Nuts (200 g)",
+      "description": "Inclusive of all taxes  A signature Haldiram's recipe featuring irresistible coated peanuts. The delicious nutty flavour and masaledaar besan crust make these crispies a hit with the young and old alike!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/tasty-nuts-114.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chatpata Dal (200 g)",
+      "description": "Inclusive of all taxes  Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and spicy. These tangy, crunchy lentils are flavoured with a blast of spices and add texture to every meal. This snack is exactly what you need after a long day!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chatpata-dal-316.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Salted Peanuts (200 g)",
+      "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in some salt, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/salted-peanuts-132.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Masala Kaju (35 g)",
+      "description": "Inclusive of all taxes  Spicy, crunchy and highly addictive! Masala Kaju is an indulgent offering from Haldiram's - made with the finest cashew nuts and a premium mix of spices. These wholesome spiced cashews are the perfect snack, anytime and anywhere!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/masala-kaju-357.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Karodpati Bhujia (125 gms)",
+      "description": "Inclusive of all taxes  Each bite of this spicy and thick dew bean and gram flour sticks will bring a smile to your face. Enjoy and seep into the taste of rich textural and taste-worthy heritage with this pack of karodpati bhujia.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/karodpati-bhujia-1378.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Marwari Bhujia (125 gms)",
+      "description": "Inclusive of all taxes  An absolute favourite among those who love to have something light with their tea, this packet of marwari bhujia, is a must buy.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/marwari-bhujia-1375.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chekaralu (150 g)",
+      "description": "Inclusive of all taxes  Crisp, buttery spirals made with rice flour, urad dal and flavourful spices. This popular South Indian snack dissolves in your mouth, leaving behind a rich taste of jeera and sesame.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/chekaralu-313.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moorukulu (150 g)",
+      "description": "Inclusive of all taxes  Buttery bits of fried rice and besan, bursting with flavours in every bite. This South Indian delicacy is a rendition of the popular snack, Murukku. Treat yourself to this deliciously twisty snack from Haldiram's!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/moorukulu-135.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moong Papad (200 g)",
+      "description": "Inclusive of all taxes  Discover the crunchy goodness of moong, flavoured with the traditional blend of pepper, red chillies and dry spices! Complete your traditional Indian meal with this versatile papad, which can be served roasted or fried, plain or topped with chopped veggies and masala.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/moong-dal-papad-200gms-409.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Badam Halwa (200 g)",
+      "description": "Inclusive of all taxes  Indulgent fudge squares bursting with the flavours of rich almonds and dry fruits. These appetizing sweets are the perfect way to welcome your guests for every occasion!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/badam-halwa-200gms-86.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Udad Papad (200 g)",
+      "description": "Inclusive of all taxes  \"Crispy accompaniment to almost every Indian meal, Udad Papad is made with the wholesome goodness of udad dal and cracked black pepper. Serve plain and roasted or fried to add extra taste and texture to your meals.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/udad-papad-1354.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Kashmiri Mix (200 g)",
+      "description": "Inclusive of all taxes   Light Mix Of Indian Snack With Cashew Nuts Ingredient Chick Peas Flour, Edible Vegetable Oil, Moong Lentils, Cashew, Potato, Cucumber Seed, Spinach, Salt , Dried Mango Powder, Red Chilli, Black Pepper, Acidity Regulator & Antioxida.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/kaju-kashmiri-mix-10.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mango Halwa (200 g)",
+      "description": "Inclusive of all taxes  Mango Halwa is a special Haldiram delicacy. Loaded with the finest dry fruits, this unique halwa is a rich treat fit only for you. As you bite through the halwa with crunchy nuts and flavor of mango, the halwa melts in your mouth and leaves behind a wonderful nutty aftertaste. This very special treat will add a sparkle to any festive celebration or occasion.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/mango-halwa-1280.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Methi Puri (200 g)",
+      "description": "Inclusive of all taxes   Crunchy crackers packed with the delicious aroma of methi and flavourful spices. A signature Haldiram's recipe, methi puris are the perfect addition to your snack jar.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/methi-puri-1151.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Namkeen Sticks (200 g)",
+      "description": "Inclusive of all taxes   Crispy namkeen sticks, made with the goodness of atta, these biscuits are delicately flavoured with salt and a dash of spices. Serve with spicy minth chutney or a cheese dip.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/namkeen-stick-1150.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bikaneri Bhujia (150 gms)",
+      "description": "Inclusive of all taxes  Spread it over poha, upma, chaat or have it as it is; this box of Bikaneri bhujia will take you to the familiar streets of Bikaner and remind you of their taste.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/bikaneri-bhujia-jar-1377.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Boondi Bhujia (150 gms)",
+      "description": "Inclusive of all taxes  These savoury dew bean and gram flour balls of joy coupled with & noodle snacks add a nice twist to the normal bhujia with this Boondi bhujia.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/boondi-bhujia-1376.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mini Bhakarwadi (200 g)",
+      "description": "Inclusive of all taxes  Delectable bite-sized besan rolls stuffed with delicious sweet and spicy coconut filling. Made with exotic sweet coconut stuffing, enhanced with the flavour of toasted spices, this namkeen is rightfully Maharashtra's favourite and the perfect snack of your dreams!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/mini-bhakarwadi-25.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Murukku (200 g)",
+      "description": "Inclusive of all taxes  A royal recipe from Tamil Nadu that combines nutritious rice flour and urad dal to make delightfully crispy twisties. Infused with a blend of traditional spices, these crunchy snacks will keep you coming back for more!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/murukku-26.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mini Samosa (200 g)",
+      "description": "Inclusive of all taxes  Reward yourself with these bite-sized, golden triangles stuffed with a spicy, flavourful filling. These miniature version of India's favourite snack has flaky crusts and extra delicious centres. It's an explosion of flavour waiting to happen!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/mini-samosa-22.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Masala Sticks (200 g)",
+      "description": "Inclusive of all taxes   Wholesome cracker sticks made with the goodness of atta and a dash of spices. These crunchy masala sticks are an answer to all your snacking needs!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/masala-stick-1149.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Masala Tit Bit (200 g)",
+      "description": "Inclusive of all taxes   Nibble-sized namkeen crackers flavoured with a blast of jeera, black pepper and red chilli masala, Haldiram's Masala Tit Bits are the ideal chai-time companions.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/masala-tit-bit-1148.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mathri (200 g)",
+      "description": "Inclusive of all taxes  Tangy accents of lemon and the flavourful heat from black pepper, ginger and cloves combine in these aromatic, buttery mathris. Made with the goodness of atta, Haldiram's Mathri is a true teatime indulgence.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/mathri-14.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Namkeen Tit Bit (200 g)",
+      "description": "Inclusive of all taxes   Bite-sized cracker squares that are equal parts salty and savoury, infused with the flavours of jeera and dry coriander. These namkeen biscuits are light and an appetizing addition to your tea-time.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/namkeen-tit-bit-1147.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Cake (Elaichi Flavour)",
+      "description": "Inclusive of all taxes  Soan Papdi re-invented as a soft, luxurious cake infused with a flavourful blast of cardamom and dry fruits. With every bite so rich and delicious, Soan Cake is an all-time favourite dessert from Haldiram's.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-cake-elaichi-flavour-326.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Papdi - Chocolate Flavour (250 g)",
+      "description": "Inclusive of all taxes  We remixed flaky, melt-in-your-mouth soan papdi and luxurious chocolate into the ultimate sweet treat. This delicate cotton candy confection dissolves in your mouth with a delicious burst of chocolatey goodness, making you reach for one more!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-papdi-chocolate-flavour-78.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Papdi (Orange Flavour)",
+      "description": "Inclusive of all taxes  Classic soan papdi featuring the refreshing flavour of fresh oranges. Equal parts of sweet and tangy, this Haldiram's original recipe is a tribute to the fresh harvests of our hometown - Nagpur. Grab a box of Orange Soan Papdi to treat the inner child in you!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-papdi-orange-flavour-329.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Papdi (Elaichi Flavour)",
+      "description": "Inclusive of all taxes  Luxurious, flaky cubes of besan and sweet milk that melt in your mouth. Intricately layered with the mouthwatering flavours of cardamom. This original cotton candy confection of India is a treat for the young and the old!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-papdi-elaichi-1478.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Mix (200 g)",
+      "description": "Inclusive of all taxes  A divine mix of dry fruits, crunchy moong beans, delicious poha, fried besan morsels and a variety of spicy namkeen. Haldiram's Dry Fruits Mix is made with the finest cashews, almonds, pistachios, apricots and raisins. Experience this complex burst of flavours with a cup of tea this evening.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/dry-fruit-mix-8.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Papdi - Coconut Flavour (250 g)",
+      "description": "Inclusive of all taxes  The all-time favourite soan papdi reinvented with a coconutty twist! Divine besan confection that melts in your mouth, with a delicious burst of coconut flavour and crunchy dry fruits. Treat your guests and loved ones to something extra special with Coconut Soan Papdi.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-papdi-coconut-flavour-79.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Orange Burfee",
+      "description": "Inclusive of all taxes  Soft fudge made with juicy, pulpy oranges, ash gourd and creamy milk. A tribute to the rich orange harvests of Nagpur, Haldiram's Orange Burfee is beloved by the young and the old alike. A perfect ending to a hearty meal with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/orange-burfee-1396-1.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chocolate Chip Cookies (250 g)",
+      "description": "Inclusive of all taxes  Live life at its Crunchiest with the perfect bite of Crunchy delight.\r\n\r\nPremium Quality\r\nHandmade Cookies\r\n100% Eggless",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/chocolate-chip-cookies-250gms-1724.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dal Tadka (300 g)",
+      "description": "Inclusive of all taxes  The original comfort food, Dal Tadka is a classic Haldiram's recipe that is equal parts wholesome and deliciousness. Enjoy the flavours of the original Indian Dal made with mildly spicy yellow lentils, tomatoes, onion, fresh green chillies & aromatic spices.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with rice/roti accompanied by tangy pickle or crunchy papad by Haldiram's",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/dal-tadka-1454.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Punjabi Choley (300 g)",
+      "description": "Inclusive of all taxes  Punjabi Chole is a classic Indian dish made with mildly spicy chickpeas cooked in an onion & tomato gravy. The aromatic spices balance the creaminess of the gravy. Savour the flavours of Punjab with this easy ready-to-eat rendition.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with chopped fresh onions, lemon wedges and deep-fried Bhature/Poori",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/punjabi-choley-453.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Punjabi Kadhi Pakoda (300 g)",
+      "description": "Inclusive of all taxes  Bengal gram flour cooked slowly in mildly spicy Yoghurt based curry.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/punjabi-kadhi-pakoda-300gms-1719.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dal Palak (300 g)",
+      "description": "Inclusive of all taxes  Palak (Spinach) and Toor Dal (Pigeon Pea Lentils) tempered with Green Chilles and Spice Oil.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dal-palak-300gms-1716.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dum Biryani (200 g)",
+      "description": "Inclusive of all taxes  Dum Biryani is an aromatic, iconic rice dish beloved by Indians across the globe. The Haldiram's Ready-To-Eat Dum Biryani is delicately flavoured with a blend of aromatic spices, cooked with fresh vegetables and steamed basmati rice.\r\n\r\nHaldiram's Recommendation:\r\nServe hot, topped with caramelized onions and a crunchy raita with Haldiram's Boondi on the side.",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/dum-biryani-451.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Nankhatai Cookies (250 g)",
+      "description": "Inclusive of all taxes  A crunchy twist on the classic nankhatai biscuits - made with desi ghee and the finest of cashew nuts. These plump discs of buttery atta cookies, bursting with the nutty flavour of kaju are an indulgent treat to your senses.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-nankhatai-cookies-143.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Pav Bhaji (300 g)",
+      "description": "Inclusive of all taxes  A classic Indian street food, this dish can be whipped up and savoured in minutes! Haldiram's Ready-To-Eat Pav Bhaji is made with spiced mashed vegetables in a potato base. Mouthwateringly delicious, indulge in this rich treat easily at home now!\r\n\r\nHaldiram's Recommendation:\r\nServe hot with chopped fresh onions, a dollop of butter and fresh pav",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/pav-bhaji-450.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajma Raseela (300 g)",
+      "description": "Inclusive of all taxes  Red Kidney beans with fresh aromatic spices cooked in onion and tomato based mildly spicy curry.Serves - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/rajma-raseela-300gms-1720.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dal Makhani (300 g)",
+      "description": "Inclusive of all taxes  One of the most iconic curries in India, Dal Makhani is a crowd favourite that gives a perfect Punjabi touch to your taste buds. This Haldiram's special recipe sets out to satisfy all your rich, creamy cravings with this delicious curry.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with fresh veggie raita and rice/roti",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/dal-makhani-1596.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Gorus Cookies (250 g)",
+      "description": "Inclusive of all taxes  Irresistible taste and wholesome nutrition in form of whole wheat cookies, handmade with desi ghee. The crunchy infusion of rich cashew nuts and flavourful elaichi make these cookies a household favourite for all occasions.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/gorus-cookies-141.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Papdi (Desi Ghee)",
+      "description": "Inclusive of all taxes  A lavish tradition of flaky soan papdi made with heavenly desi ghee. Every bite is an explosion of wholesome besan flavoured with cardamon. With the satisfying crunch of pistachios and almonds, Haldiram's Special Ghee Soan Papdi remains one of everyone's personal favourites.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-papdi-desi-ghee-331.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Paneer Makhani (300 g)",
+      "description": "Inclusive of all taxes  One of the most iconic curries in India, Paneer Makhani is a crowd favourite. This Haldiram's special recipe sets out to satisfy all your rich, creamy cravings with this delicious curry.\r\n\r\nHaldiram's Recommendation:\r\nServe hot with fresh veggie raita and rice/roti",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/paneer-makhani-452.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Namkeen Tit Bit & Namkeen Sticks Combo",
+      "description": "Inclusive of all taxes   Bite-sized cracker squares that are equal parts salty and savory, infused with the flavors of jeera and dry coriander. These namkeen biscuits are light and appetizing in addition to your tea-time.\r\nCrispy namkeen sticks, made with the goodness of atta, these biscuits are delicately flavored with salt and a dash of spices. Serve with spicy minth chutney or a cheese dip.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chai-ke-sath-namkeen-combo-1639.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Masala Tit Bit & Masala Sticks Combo",
+      "description": "Inclusive of all taxes   Nibble-sized namkeen crackers flavored with a blast of jeera, black pepper, and red chili masala, Haldiram's Masala Tit-Bits are the ideal chai-time companions. \r\nWholesome cracker sticks made with the goodness of atta and a dash of spices. These crunchy masala sticks are an answer to all your snacking needs!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/chai-ke-sath-masala-combo-1640.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajgira Chikki Bar (360 g)",
+      "description": "Inclusive of all taxes  Haldiram's Rajgira Chikki Jar is a perfect share pack - split a chikki bar with your loved ones!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rajgira-chikki-jar-1585.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kala Khatta Squash (750 ml)",
+      "description": "Inclusive of all taxes  Nostalgic summer drink syrup made with fresh, tangy blackberries and spicy chaat masala. Combine the concentrate with chilled water or soda for a refreshing drink.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/kala-khatta-squash-32.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lemon Squash (750 ml)",
+      "description": "Inclusive of all taxes  Refreshingly tangy concentrate made with fresh and juicy lemons. Enjoy your favorite lemon soda or nimbu pani at home with this tangy-sweet syrup.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/lemon-squash-111.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Orange Squash (750 ml)",
+      "description": "Inclusive of all taxes  Enjoy the taste of freshly squeezed oranges with our tangy-sweet concentrate, a refreshing tribute to the rich harvests of Nagpur.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/orange-squash-30.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Pineapple Squash (750 ml)",
+      "description": "Inclusive of all taxes  Taste the natural sweetness of fresh pineapples with our authentic fruit concentrate. Serve blended with chilled water or soda.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/pineapple-squash-31.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Palak Paneer (300 g)",
+      "description": "Inclusive of all taxes  Curry made with Fresh Chunks of Paneer simmered in a spinach curry flavoured with mild spices.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/palak-paneer-300gms-1718.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mutter Paneer (300 g)",
+      "description": "Inclusive of all taxes  Green Peas and Indian Cottage Cheese with Fresh Aromatic Spices cooked in Onion and Tomato based spicy curryServes - 2No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.P",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/mutter-paneer-300gms-1717.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajma Chawal (350 g)",
+      "description": "Inclusive of all taxes  Makes today's meal special with the most loved Punjabi vegetarian curry, consisting pf red kidney beans in a thick tomato gravy with many whole spices and a side of steamed long grain basmati rice.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/rajma-chawal-350gms-1713.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Double Joy",
+      "description": "Inclusive of all taxes-  Double Joy is a Haldiram's Sweets Combo that gives you double the fun! Enjoy the mouth-watering combination of delectable Soan Papadi and luscious Badam Halwa in one awesome and festive package!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/double-joy.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Khus Sharbat (750 ml)",
+      "description": "Inclusive of all taxes  Cooling herb concentrate made with khus grass (vetiver). Combine with chilled water or milk to make an aromatic, medicinal drink - an essential for hot summers.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/khus-sharbat-36.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rose Sharbat (750 ml)",
+      "description": "750 ml\r\nInclusive of all taxes  A floral concoction made with natural rose petals. This versatile syrup can be whipped into a refreshing sharbat or blended with milk to make a delicious milkshake.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rose-sharbat-37.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Cake - Premium Pack (400 g)",
+      "description": "Inclusive of all taxes  Soan Papdi re-invented as a soft, flaky cake, flavoured with the richness of almonds and pistachios. Made with premium ingredients, these delicate cakes are infused with the royal flavour of elaichi and saffron. Share this signature Haldiram's treat with your loved ones!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-cake-premium-pack-1302.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mango Panna Squash (750 ml)",
+      "description": "Inclusive of all taxes  Cool off this summer with this energizing aam panna syrup made with green mango pulp and sugar syrup - the perfect balance of sweet and sour!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/mango-panna-squash-112.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Choley Chawal (350 g)",
+      "description": "Inclusive of all taxes  Choley Chawal is a classic Indian dish made with whole chick peas with green chillies and aromatic spices cooked in a tangy tomato curry. Enjoy the taste of lip smacking choley on the side of steaming, full grain, basmati rice.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/choley-chawal-350gms-1712.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Masala Peanuts (200 g)",
+      "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in several spices, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/masala-peanuts-standy-1732.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Salted Peanuts (200 g)",
+      "description": "Inclusive of all taxes   Rich in protein and power supplier of energy, this pack of peanuts tossed in some salt, is the ideal snack for everyone. Dive into the world of health and flavor with this goodie box.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/salted-peanuts-standy-1730.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "All In One (200 g)",
+      "description": "Inclusive of all taxes  A unique blend of spices, sweet and a whole lot of crunch! Crunchy cornflakes, dried nuts, raisins and our trademark crispy namkeen combine to make this irresistible, lip-smacking snack.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/all-in-one-standy-1438.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Aloo Bhujia (200 g)",
+      "description": "Inclusive of all taxes  The ultimate comfort snack - spicy potato and besan noodles that will keep you coming back for more! This classic Haldiram's offering is perfect to top your salads, chaats and bhel.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/aloo-bhujia-standy-1592.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chana Choor (200 g)",
+      "description": "Inclusive of all taxes  Delicious bits of spicy and rich chana dal, a mouthwatering delicacy from the house of Haldiram's. Serve with freshly chopped tomatoes, onions and a dash of lime juice to whip up a nutritious evening snack.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chana-choor-standy-1440.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chana Nuts (200 g)",
+      "description": "Inclusive of all taxes  All Time Salted Snack Of Fried Mung Lentils. Ingredients : Chick Peas, Peanuts, Edible Vegetable Oil, Red Chilli, Salt, Black Salt, Black Pepper, Acidity Regulator & Antioxidant (E 330), Sugar, Cardamom, Cumin, Dry Mango Powder, Coriander Powder, Ani Seed, Fenugreek Seed, Cinnamon, Dry Ginger Powder, Nutmeg, Clove Powder, Turmeric Powder, Garlic Powder, Tamarind Powder, Bay Leaf & AsafoetidaContains PeanutMay Contain Other Tree Nuts, Gluten & Sesame Seed.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Contains allergen information"
+      ],
+      "product_url": "https://www.haldirams.com/chana-nuts-standy-1450.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chatpata Dal (200 g)",
+      "description": "Inclusive of all taxes  Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and spicy. These tangy, crunchy lentils are flavoured with a blast of spices and add texture to every meal. This snack is exactly what you need after a long day!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chatpata-dal-standy-1447.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Khatta Meetha (200 g)",
+      "description": "Inclusive of all taxes  Deliciously sweet and sour, this mix of fried green peas, boondi, lemon sev and classic namkeen is an extraordinary treat to your senses. Give your teatime an ideal companion, that's perfectly tangy and sweet!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/khatta-meetha-standy-1442.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lite Chiwda (200 g)",
+      "description": "Inclusive of all taxes  A scrumptious combination of flaky poha, crispy boondi and spicy sev, Lite Chiwda is a great option for a snacking indulgence, even while on a diet!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/lite-chivda-standy-1444.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moong Dal (200 g)",
+      "description": "Inclusive of all taxes  Split moong beans coated in a delectable selection of spices. An all-time favourite offering from Haldiram's, you don't need a special time or occasion to snack on these!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/moong-dal-standy-1445.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Farali Chiwda (200 g)",
+      "description": "Inclusive of all taxes  A wholesome mix of fried potato sticks, crunchy peanuts and Haldiram's trademark masala, Phalhari Chiwda is made with quality ingredients. Stock up on this tasty essential for teatime snacking and a quick meal when fasting.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/phalhari-chivda-standy-1441.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soya Sticks (200 g)",
+      "description": "Inclusive of all taxes  Discover the goodness of chatpata, crispy sticks of protein-rich soya with this Haldiram's original recipe. A healthier alternative to the typical potato chips or wafers, these crispies are wholesome and filling. Pair your evening coffee with Haldiram's Soya Sticks.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soya-stick-standy-1443.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Spicy Peanuts (200 g)",
+      "description": "Inclusive of all taxes  Taking the taste of peanuts, a notch higher, this spicy peanuts pack is a goto item for every party lover. Tossed in a spicy mix, this peanut pack never goes out of choice.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/spicy-peanuts-standy-1455.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Tasty Nuts (200 g)",
+      "description": "Inclusive of all taxes  A signature Haldiram's recipe featuring irresistible coated peanuts. The delicious nutty flavour and masaledaar besan crust make these crispies a hit with the young and old alike!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/tasty-nuts-standy-1446.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Boondi Ladoo (250 g)",
+      "description": "Inclusive of all taxes Golden pearls of gram flour cooked in pure desi ghee, with cashews and raisins, shaped into round dessert balls. Boondi Ladoo is a timeless sweet treat and a classic festive essential beloved by the young and old.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/boondiladdu-250.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Orange Burfee (250 g)",
+      "description": "Inclusive of all taxes  Soft fudge made with juicy, pulpy oranges, ash gourd and creamy milk. A tribute to the rich orange harvests of Nagpur, Haldiram's Orange Burfee is beloved by young and the old alike. A perfect ending to a hearty meal with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/orange-burfee-0-250kg.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Soan Cake (Multi Flavour) (400 g)",
+      "description": "Inclusive of all taxes  Soan papdi re-invented as soft, flaky, textured cakes fused with a variety of flavours and nuts. Every bite is so delicate and flavourful, it brings your childhood memories flooding back in. \r\nThis gift box includes:\r\n• Soan Cake Orange\r\n• Soan Cake Mango \r\n• Soan Cake Chocolate\r\n• Soan Cake Pineapple",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/soan-cake-multi-flavour-1111.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Ladoo",
+      "description": "Inclusive of all taxes  \r\n\r\nNourishing sweet treats made with deliciously crunchy almonds, cashew nuts and pistachios. Bound by the goodness of atta (whole wheat flour) and infused with the sweet flavour of cardamom, these ladoos are a terrific way to bring in the festivities.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dry-fruit-ladoo-1417.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Besan Ladoo",
+      "description": "Inclusive of all taxes  Wholesome besan roasted in pure desi ghee, and shaped into delicious dessert balls - just how grandma used to make them! This delicious sweet treat delivers a healthy dose of nutritional benefits and childhood memories.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/besan-ladoo-1420.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajasthani Peda (250 g)",
+      "description": "Inclusive of all taxes A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rajasthani-peda-250gm.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moti Choor Ladoo",
+      "description": "Inclusive of all taxes Featuring besan bits and chopped dry fruits, cooked in pure desi ghee and shaped into deliciously round ladoos. Haldiram's Moti Choor is delicately flavoured with royal saffron and elaichi. This irresistible favourite will have you reaching for more!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/moti-choor-laddu.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Moong Burfee",
+      "description": "Inclusive of all taxes   Delightful squares of moong dal fudge with crunchy almonds and cardomon, giving it a delicious edge. Haldiram's Moong Burfee is a classic recipe enhanced by the flavours of saffron. Share this satisfying treat with your family and friends, anytime and anywhere!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/moong-dal-burfee-1416.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mysore Pak",
+      "description": "Inclusive of all taxes  Complex flavours and simple textures are combined in this classic Mysore Pak recipe, to make a beloved sweet delicacy. Haldiram's Milk Mysore Pak is a signature recipe made with desi ghee and gram flour. This milky confection is a perfect end to any meal with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/southindian-mysore-pak.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dal Makhani Chawal (350 g)",
+      "description": "Inclusive of all taxes  Whole black lentils simmered with butter and fresh cream in a tomato based mildly spicd curry.Sealed fresh with loveMildly spicy & very yummyServes - 1No preservatives\r\n\r\nHaldiram's Recommendation :\r\nHeating time may vary depending on microwave wattage & may need adjustment.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/dal-makhani-chawal-350gms-1714.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Matka Jhatka Chaas - (180ml - Pack of 15)",
+      "description": "Inclusive of all taxes   Refreshingly spiced buttermilk - made with the creamiest yoghurt, infused with the delicious flavours from our traditional spice blend. Re-energize on the go with our convenient ready-to-drink tetra pack.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/chaas-matka-jhatka-1345.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Thanda Funda - Chocolate Milk (180ml - Pack of 12)",
+      "description": "Inclusive of all taxes",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/thanda-funda-chocolate-po6-1729.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Thanda Funda - French Vanilla Milk (180ml - Pack of 12)",
+      "description": "Inclusive of all taxes",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/thanda-funda-vanilla-po6-1728.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Gulab Jamun",
+      "description": "Inclusive of all taxes  Gulab Jamun is a classic sweet dish favoured by the young and old alike. After all, a wedding buffet, birthday celebration or even religious function cannot be complete until the guests have been served the warm, sticky and absolutely mouth-watering delights of Gulab Jamuns.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/gulab-jamun-1101.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Sweet Wonder (1 kg)",
+      "description": "Inclusive of all taxes  \"Two of Haldiram's legendary offerings in a wonderful gift pack. Indulge in the exquisite pleasures of soft, juicy gulab jamuns and royally rich rasgullas this festive season.\r\n\r\nThe gift box includes: \r\n• Gulab Jamun\r\n• Rasgulla \"",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/sweet-wonder-1279.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Cham Cham (1 kg)",
+      "description": "Inclusive of all taxes  Decadent chenna (fresh curd cheese) dumplings soaked in sweet syrup flavoured with rose, saffron and cardamoms. A Haldiram's classic offering, Cham Cham never goes out of style! Roll them in some desiccated coconut to enjoy this Bengali authenticity.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/cham-cham-27.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajbhog (1 kg)",
+      "description": "Inclusive of all taxes  Luxurious almonds and pistachios wrapped in spongy chenna (fresh curd cheese) a treat fit for the royals! Rajbhog enhances the taste of rasgullas with the essence of saffron and cardamom. Treat your guests to this indulgence after a hearty meal.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rajbhog-28.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Thanda Funda - Kesar Milk (180ml - Pack of 12)",
+      "description": "Inclusive of all taxes",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/thanda-funda-kesar-badam-milk-po6-1727.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Thanda Funda - Badam Thandai Milk (200ml - Pack of 6)",
+      "description": "Inclusive of all taxes",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/thanda-funda-badam-thandai-po6-1726.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Sangam Burfee (250 g)",
+      "description": "Inclusive of all taxes  A box full of delicious mithai delicately prepared by the ones giving India sweet dreams since 1937. Every bite of Haldiram's tender mithai will fill your life with rich flavours and send you back in time, to the royal feasts of Maharajas.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-sangam-burfee-250gms-1725.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bikaneri Katran Papad (1 kg)",
+      "description": "Inclusive of all taxes  Bikaneri Papad celebrates the rich history of Haldiram's Bikaneri origins. Taste the authentic flavours of Rajasthan with each crunchy bite as your culinary senses will be transported to the historic and radiant climes of Rajasthan.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/bikaneri-katran-papad-1591.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Jal Jeera-Party Pack (180ml - Pack Of 15)",
+      "description": "Inclusive of all taxes   The striking flavours of jeera, aamchur and fresh mint blend together in this energizing, ready-to-consume summer drink from your childhood.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/jal-jeera-1434.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bhujia Sev Jar (600 g)",
+      "description": "Inclusive of all taxes  Haldiram's Bhujia Sev is an authentic rendition of the classic namkeen - crispy gram flour sticks. Lip-smackingly flavourful, this special edition pack is made from our director's secret recipe. Share with your loved ones over a cup of tea, or top it on a steaming bowl of upma, poha or chaats.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/bhujia-sev-jar-1449.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mini Kaju Katli (250 g)",
+      "description": "Inclusive of all taxes   Smooth and creamy diamond-shaped slices of royal cashew goodness. Haldiram's Kaju Katli is made with quality cashews, thick milk and edible silver foil. This festive favourite is an indulgent treat made to share with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/mini-kaju-katli-1405.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Cashew Jar (200 g)",
+      "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/cashew-jar-1472.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Roll",
+      "description": "Inclusive of all taxes  Flavours of pistachios and cardamom wrapped in a soft, indulgent layer of cashew nut fudge. Haldiram's Kaju Roll is a signature dessert made with only the finest of cashews! Treat your loved ones to something extra special this festive season.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-roll-1401.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Boondi Ladoo (500 g)",
+      "description": "Inclusive of all taxes  Golden pearls of gram flour cooked in pure desi ghee, with cashews and raisins, shaped into round dessert balls. Boondi Ladoo is a timeless sweet treat and a classic festive essential beloved by the young and old.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/boondi-ladoo-104.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chai Ke Sath All Packs Combo",
+      "description": "Inclusive of all taxes   The spicy & salty chai time snacks flavored with a blast of jeera, black pepper, and red chili masala, methi and irresistable homely taste. Haldiram's Chai Ke Sath All Packs Combo come with a full range of tea time snacks specially preapared to uplift the taste of anytime tea.",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/chai-ke-sath-all-packs-combo-1641.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lavish Delight",
+      "description": "Inclusive of all taxes-  \"A delightful assortment of our traditional delicacies and contemporary creations. Treat your loved ones to a memorable gift with our delight collection of crunchy Bhakarwadis, spongy Rasgulla, delicious namkeen Panchratan Mix and melt in your mouth Soan Papdi.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/lavish-delight.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Raisins Jar (250 g)",
+      "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/raisins-jar-1471.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajasthani Peda (500 g)",
+      "description": "Inclusive of all taxes  A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rajasthani-peda-1362.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Pinni (500 g)",
+      "description": "Inclusive of all taxes  Milky, melt in your mouth confection made with the goodness of whole wheat, stuffed with crunchy nuts and cucumber seeds. This authentic sweet from Punjab is indulgently delicious and loaded with nutrition. Reward yourself with this extraordinary treat!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/pinni-100.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Rajasthani Peda",
+      "description": "Inclusive of all taxes A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/rajasthani-peda.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Badam Katli (250 g)",
+      "description": "Inclusive of all taxes   Rich and Diamond-shaped burfee slices made from handpicked almonds and topped with silver leaf.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/badam-katli-250gms-1722.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Chocolate Ladoo (250 gms)",
+      "description": "Inclusive of all taxes New avatar of ladoo is here - fine cashews and decadent chocolate rolled into delicious dessert balls. This signature Haldiram's recipe makes a wonderful personal treat for the young ones and the old alike!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-chocolate-ladoo-250gms.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Bites (200 g)",
+      "description": "Inclusive of all taxes  Based on the classic fudge recipe, this assortment of bite-sized squares is packed with the natural flavours of dates, figs, nuts and creamy milk. Grab a pack of Haldiram's Dry Fruit Bites to discover this wholesome goodness!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dry-fruit-bites-122.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Patisa (500 g)",
+      "description": "Inclusive of all taxes  The softer, creamier avatar of the classic soan papdi, Patisa is deliciously indulgent. This flakey cube is made with wholesome besan and finely chopped pista, cooked in divine desi ghee. Makes you want to skip right to the desserts!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/patisha-99.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Almond Jar (250 g)",
+      "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/almod-jar-1473.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Flavourful Fusions - Ghee (500 g)",
+      "description": "Inclusive of all taxes  Flavourful combination of Moong Burfee, Mysore Pak, Dodha Burfee. The best choice to satisfy your sweet tooth",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/flavourful-fusions-ghee-500gms-1654.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Pistachios Jar (200 g)",
+      "description": "Inclusive of all taxes  Make each occasion a royal one with the highest quality nuts and dry fruits, handpicked and packed with the love.these are jewels, revel in them,give in to their goodness.Because you deserve nothing less than royal treatment.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/pistachios-jar-1470.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Assorted Baklava Sweets (300 g)",
+      "description": "The true taste of Desire",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/baklava-300gms-1595.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Milk Cake",
+      "description": "Inclusive of all taxes A classic Indian Sweet , Prepared with milk and sugar , enriched with the flavours of cardamom",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/milk-cake.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Chocolate Hamper",
+      "description": "Inclusive of all taxes  Assorted Chocolate Tokani is the perfect way to mark the arrival of the festive season. A truly indulgent gift for chocolate lovers, this assorted box comprises of 5 star crunchy, cadbury silk chocolate, perk, rite bite.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/assorted-chocolate-tokani-small.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Anjeer Dryfruit Burfee",
+      "description": "Inclusive of all taxes  A luxurious combination of distinctive textures and flavours of almonds, pistachios, cashews and figs. Reward yourself with Haldiram's Anjeer Dry Fruits Burfee, a delicious powerhouse of energy that keeps you going between meals.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/anjeer-dryfruit-burfee-1755.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Khajur Dryfruit Laddu-500 g",
+      "description": "Nutritious dry fruit ladoos rolled in desiccated dates. Haldiram's Khajur Dry Fruits Ladoo combines dry fruits and dates to create a crunchy, and sweet treat. Who says ladoos can't be healthy?",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/khajur-dryfruit-ladoo-203.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Lite Namkeen Combo",
+      "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Lite Namkeen Combo. This 3-pack bundle comes with a premium package of Aloo Bhujiya, Phalhari & Lite Chiwda (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/holi-special-combo.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Spicy Namkeen Combo",
+      "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Spicy Namkeen Combo. This 3-pack bundle comes with a premium package of Spicy Peanut,Masala Peanut & Chana choor (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+      "special_features": [
+        "Spicy"
+      ],
+      "product_url": "https://www.haldirams.com/spicy-holi-combo.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Tangy Namkeen Combo",
+      "description": "Inclusive of all taxes  Celebrate this Holi with Joy and Taste of Haldiram's Tangy Namkeen Combo. This 3-pack bundle comes with a premium package of Aloo Bhujiya, Khatta Meetha & Soya Sticks (200gms each). Celebrate the best of Haldiram's Namkeen with this pack!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/tangy-holi-combo.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Assorted Chocolate Tokani (Medium)",
+      "description": "Inclusive of all taxes  Assorted Chocolate Tokani is the perfect way to mark the arrival of the festive season. Packed with chocolatey delights loved by children and grownups alike, this assorted box comprises of Dairy Milk, Cadbury silk, munch, 5 Star, perk, Choco Delight",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/assorted-chocolate-tokani-medium.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Pista Bite Cake",
+      "description": "Inclusive of all taxes  Round bites of indulgent pistachios and almond set in a creamy fudge base, bursting with the flavour of saffron and crunchy nuts. This original Haldiram's treat is an ideal gift for your loved ones this festive season.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/pista-bite-cake-230.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Mewa Bites",
+      "description": "Inclusive of all taxes  Bite-sized melt in your mouth squares, based on the classic soan papdi recipe. Packed with the robust flavour of cashews, nuts and creamy milk, this original Haldiram's confection will keep you coming back for more!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/mewa-bite-266.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Strawberry Bites",
+      "description": "Inclusive of all taxes  Made from Maharashtra's finest strawberries, this is a bite-sized sweet delicacy from the house of Haldiram's. Strawberry Bite retains the quintessential flavour of the fruit as it folds into a soft and creamy milk base.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/strawberry-bite-262.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Choco Bites",
+      "description": "Inclusive of all taxes  Meet the dream team: Chocolates and nuts are combined in this dessert based on the classic fudge recipe. Taste the richness of almonds and cashews with every bite of this chocolatey delight. This delicate sweet is a perfect dessert to be served to an intimate gathering of family and friends.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/choco-bite-286.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Date Bites",
+      "description": "Inclusive of all taxes  Bite-sized original sweets made with the finest of dates and rich dry fruits. Every fudge square is bursting with the rich flavour of khajur and the crunchy texture of chopped almonds and cashews. These confections make wonderful gifts or personal treats with great pleasure.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/date-bite-282.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Orange Bites",
+      "description": "Inclusive of all taxes  Bite-sized squares exploding with tangy, juicy goodness of fresh oranges and the crunchiness of almonds and cashew. This original recipe features the best of citrusy sweet oranges from Nagpur, and is a guaranteed hit with children and adults alike!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/orange-bite-278.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Fancy Dry Fruit Box (TT)",
+      "description": "Inclusive of all taxes  Dry Fruit Box, as the name suggests, is a rich assortment of Haldiram's dry fruits. This is a truly exotic dry fruit box to gift to large families or friend groups!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/fancy-dry-fruit-box-tt-1112.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Chocolate Roll",
+      "description": "Inclusive of all taxes Luxurious and chocolatey cashews wrapped in indulgent chocolate shavings. Haldiram's Kaju Chocolate Roll is a signature dessert made to satisfy your chocolate and cashew nut cravings, all at once!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-chocolate-roll.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Tokani (400 g)",
+      "description": "Inclusive of all taxes  Dry Fruit Tokni is a beautiful assortment of Almonds, Cashews, Pistachios and Kish Mish. This delightful tokni is available in two sizes and can be served or gifted during any special occasion!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dry-fruit-tokani-1474.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Kaju Chocolate Ladoo",
+      "description": "Inclusive of all taxes New avatar of ladoo is here - fine cashews and decadent chocolate rolled into delicious dessert balls. This signature Haldiram's recipe makes a wonderful personal treat for the young ones and the old alike!",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/kaju-chocolate-ladoo.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Assorted Dry Fruit Bites (350 g)",
+      "description": "Inclusive of all taxes  An assortment of bite-sized treats made with luscious dry fruits, these squares are loaded with the goodness of rich almonds, cashews, dates, pistachios and anjeer. This special selection will leave you spoilt for choice! Dry Fruits Bites is a wonderful gifting and personal treat pack for your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/assorted-dry-fruit-bites-1129.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Assorted Dry Fruit Bites",
+      "description": "Inclusive of all taxes An assortment of bite-sized treats made with luscious dry fruits, these squares are loaded with the goodness of rich almonds, cashews, dates, pistachios and anjeer. This special selection will leave you spoilt for choice! Dry Fruits Bites is a wonderful gifting and personal treat pack for your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/assorted-dry-fruit-bites.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Classic Relish- Dry Fruit Box (500 g)",
+      "description": "Inclusive of all taxes   A luxurious mixed box of the finest dry fruits and nuts from the house of Haldiram's. Treat your loved ones to the elite delight of almonds, cashews, pistachios and raisins.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/classic-relish-145.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Box ( GG )",
+      "description": "Inclusive of all taxes  Arrival Of Festival Season & To Welcome & Celebrate The Season With Families & Friends. We Have Bought Festival Packs For You In Attractive & Affordable Price Range.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dry-fruit-box-gg.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Dry Fruit Tokani (800 g)",
+      "description": "Inclusive of all taxes  A premium assortment of fine almonds, cashews, pistachios and raisins. This truly indulgent basket is a perfect gift for your loved ones and extended family this festive season.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/dry-fruit-tokani-medium-1474.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Royal Relish- Dry Fruit Box (750 g)",
+      "description": "Inclusive of all taxes  A deluxe assortment of rich, luxurious almonds, cashews, pistachios, apricots, figs and raisins. Celebrate this festive season with a curated pack made just to share with your loved ones.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/royal-relish-375.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Regal Relish - Dry Fruit Box (900 g)",
+      "description": "Inclusive of all taxes  This royal dry fruit box is an ideal gift for every occasion. The hamper contains one jar each of cashews, almonds, raisins, and pistachios. Perfect for those who want to enjoy some healthy treat.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/regal-relish-1369.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Papad Chavanu (200 g)",
+      "description": "Description not available",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/papad-chavanu-200-gms-200-gm.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Bikaneri Papad",
+      "description": "Inclusive of all taxes   Thin, crunchy papad created using the bold flavours of dry coriander and jeera, adding a flavourful Punjabi twist! Serve plainly roasted, topped with chopped vegetables or as a fried accompaniment with a delicious meal.",
+      "special_features": [
+        "Vegetarian / Vegan option"
+      ],
+      "product_url": "https://www.haldirams.com/bikaneri-papad-1.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "All in One",
+      "description": "Inclusive of all taxes  A unique blend of spices, sweet and a whole lot of crunch! Crunchy cornflakes, dried nuts, raisins and our trademark crispy namkeen combine to make this irresistible, lip-smacking snack.",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/all-in-one.html",
+      "price": null,
+      "category": "Uncategorised"
+    },
+    {
+      "item_name": "Fancy Dry Fruits Tokni (A1)",
+      "description": "Inclusive of all taxes  A premium assortment of fine almonds, cashews, pistachios and raisins. This truly indulgent basket is a perfect gift for your loved ones and extended family this festive season",
+      "special_features": null,
+      "product_url": "https://www.haldirams.com/fancy-dry-fruits-tokni-a1.html",
+      "price": null,
+      "category": "Uncategorised"
+    }
+  ]
+}

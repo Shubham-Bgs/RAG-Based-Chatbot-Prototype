@@ -1,0 +1,1044 @@
+{
+  "restaurant_name": "McDonald's",
+  "location": "USA",
+  "opening_hours": null,
+  "contact_info": null,
+  "scrape_source": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+  "item_count": 93,
+  "items": [
+    {
+      "item_name": "Spicy McCrispy™",
+      "description": "McDonald’s Spicy McCrispy Chicken Sandwich is made with southern-style fried chicken & Spicy Pepper Sauce. Grab it at your nearest McDonald's today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ mccrispy™ mccrispy™ deluxe mccrispy™ deluxe mccrispy™ 10 piece chicken mcnuggets® 10 piece chicken mcnuggets® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-mccrispy-chicken-sandwich.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Big Mac®",
+      "description": "Grab a Big Mac® for a unique McDonald's experience: made with two all beef patties, Big Mac® sauce & more. Get yours today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe mcdouble® mcdouble® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/big-mac.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Chicken McNuggets®",
+      "description": "McDonald's Chicken McNuggets® are all white meat Chicken Nuggets with no artificial preservatives! Try tender, juicy Chicken Nuggets at McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ mccrispy™ mccrispy™ spicy mccrispy™ spicy mccrispy™ deluxe mccrispy™ deluxe mccrispy™ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/chicken-mcnuggets-4-piece.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Quarter Pounder®* with Cheese",
+      "description": "Our Quarter Pounder® with Cheese features 100% fresh beef, American cheese, onion and pickles. Try a fresh beef burger today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe mcdouble® mcdouble® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/quarter-pounder-with-cheese.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "McCafé® Iced Coffee",
+      "description": "McCafé® Iced Coffee features Arabica beans, cream & your choice of coffee flavor. Order an Iced Coffee at a McDonald's near you or with McDelivery®!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-small.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Egg McMuffin®",
+      "description": "Our Egg McMuffin® breakfast sandwich has a freshly cracked egg, Canadian bacon & American cheese. Try an Egg McMuffin® at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/egg-mcmuffin.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Sausage Burrito",
+      "description": "McDonald's Sausage Burrito is a delicious breakfast burrito with fluffy eggs & pork sausage. Grab a sausage breakfast burrito at McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-burrito.html",
+      "price": null,
+      "category": "Featured Favorites"
+    },
+    {
+      "item_name": "Bacon, Egg & Cheese Biscuit",
+      "description": "Enjoy a Bacon, Egg & Cheese Biscuit sandwich from the McDonald's breakfast menu. Grab a Biscuit Breakfast Sandwich today at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/bacon-egg-cheese-biscuit.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage McMuffin®",
+      "description": "McDonald’s Sausage McMuffin® is made with American cheese & sizzling sausage sandwiched between a toasted English Muffin. Grab one with McDelivery® today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage McMuffin® with Egg",
+      "description": "Our Sausage Egg McMuffin® breakfast sandwich features savory sausage, a freshly cracked egg & cheese. Try one today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage biscuit sausage biscuit important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin-with-egg.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage Biscuit",
+      "description": "McDonald's Sausage Biscuit breakfast sandwich features hot sausage on a warm buttermilk biscuit. Grab a Sausage Biscuit at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-biscuit.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage Biscuit with Egg",
+      "description": "The Sausage Biscuit with Egg Sandwich features fluffy eggs, a sausage patty & a biscuit!. Try a hot sausage & egg breakfast biscuit at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-biscuit-with-egg.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Bacon, Egg & Cheese McGriddles®",
+      "description": "Our Bacon, Egg & Cheese McGriddles® recipe features thick cut smoked bacon, folded egg & melty American cheese. Try one at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/bacon-egg-cheese-mcgriddles.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage McGriddles®",
+      "description": "Our Sausage McGriddles® breakfast sandwich features warm sausage & sweet griddle cakes. Try a Sausage McGriddles today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-mcgriddles.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Sausage, Egg & Cheese McGriddles®",
+      "description": "Our Sausage, Egg & Cheese McGriddles® features hot sausage, fluffy egg, and melty cheese on warm griddle cakes.Try one at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sausage-egg-cheese-mcgriddles.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Big Breakfast®",
+      "description": "McDonald's Big Breakfast® includes a buttery biscuit, eggs, Hash Browns & hot sausage patty. Order a Big breakfast meal today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/big-breakfast.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Big Breakfast® with Hotcakes",
+      "description": "Get McDonald’s Big Breakfast® with Hotcakes—Eggs, Hash Browns, Sausage, Biscuit & Hotcakes. Try a pancakes breakfast now at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/big-breakfast-with-hotcakes.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Hotcakes",
+      "description": "Enjoy McDonald's, Hotcakes—golden brown, fluffy pancakes served with real butter & sweet syrup. Get some hot pancakes now at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hotcakes.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Hotcakes and Sausage",
+      "description": "Love pancakes and sausage? Then stop by for McDonald's Hotcakes and sausage breakfast, featuring our McDonald's sausage patty and fluffy pancakes!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hotcakes-and-sausage.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Hash Browns",
+      "description": "McDonald's Hash Browns are made from fluffy shredded potatoes. Upgrade your breakfast with crispy shredded hash browns at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hash-browns.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Fruit & Maple Oatmeal",
+      "description": "McDonald's Fruit & Maple Oatmeal recipe combines whole grain oats with fruits and light cream. Get a Fruit & Maple Oatmeal at the nearest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product bacon, egg & cheese biscuit bacon, egg & cheese biscuit egg mcmuffin® egg mcmuffin® sausage mcmuffin® sausage mcmuffin® sausage mcmuffin® with egg sausage mcmuffin® with egg important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/fruit-maple-oatmeal.html",
+      "price": null,
+      "category": "Breakfast"
+    },
+    {
+      "item_name": "Double Quarter Pounder®* with Cheese",
+      "description": "Enjoy a Double Quarter Pounder® with Cheese—a freshly cooked beef burger, layered with melty cheese, onions and tangy pickles on sesame seed bun.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe mcdouble® mcdouble® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/double-quarter-pounder-with-cheese.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "Quarter Pounder®* with Cheese Deluxe",
+      "description": "The Quarter Pounder with Cheese Deluxe features fresh toppings like crisp lettuce and roma tomatoes on top of a fresh beef burger. Try one at McDonald's today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese mcdouble® mcdouble® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/deluxe-quarter-pounder-with-cheese.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "McDouble®",
+      "description": "Our McDonald’s McDouble® comes with two all beef patties, American cheese, onion and pickles. Order a McDouble today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mcdouble.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "Bacon Quarter Pounder®* with Cheese",
+      "description": "Try McDonald's Bacon Quarter Pounder with Cheese—¼ lb. beef patties topped with smoked bacon. Get this beef bacon burger at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/quarter-pounder-bacon.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "Cheeseburger",
+      "description": "The McDonald’s Cheeseburger is a classic that has been with us from the start! Enjoy a delicious Cheeseburger at a McDonald's near you or order in the app.",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/cheeseburger.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "Double Cheeseburger",
+      "description": "McDonald's Double Cheeseburger comes with two all beef patties and two American cheese slices. Enjoy a 100% pure beef Double Cheeseburger at McDonald's today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/double-cheeseburger.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "Hamburger: The Classic McDonald's Burger",
+      "description": "The McDonald’s Hamburger is a 100% beef burger seasoned with a pinch of salt and pepper. Enjoy a perfectly seasoned Classic Burger at McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product big mac® big mac® quarter pounder®* with cheese quarter pounder®* with cheese double quarter pounder®* with cheese double quarter pounder®* with cheese quarter pounder®* with cheese deluxe quarter pounder®* with cheese deluxe important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hamburger.html",
+      "price": null,
+      "category": "Burgers"
+    },
+    {
+      "item_name": "McCrispy™",
+      "description": "McDonald’s McCrispy™ Chicken Sandwich is a breaded chicken sandwich that's full of flavor. Try this fried chicken sandwich today at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ spicy mccrispy™ spicy mccrispy™ deluxe mccrispy™ deluxe mccrispy™ 10 piece chicken mcnuggets® 10 piece chicken mcnuggets® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mccrispy-chicken-sandwich.html",
+      "price": null,
+      "category": "Chicken & Fish Sandwiches"
+    },
+    {
+      "item_name": "Deluxe McCrispy™",
+      "description": "McDonald's Deluxe McCrispy™ is a deluxe crispy chicken sandwich with a crispy chicken fillet, Roma tomatoes & lettuce. Try it at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ mccrispy™ mccrispy™ spicy mccrispy™ spicy mccrispy™ 10 piece chicken mcnuggets® 10 piece chicken mcnuggets® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/deluxe-mccrispy-chicken-sandwich.html",
+      "price": null,
+      "category": "Chicken & Fish Sandwiches"
+    },
+    {
+      "item_name": "Spicy Deluxe McCrispy™",
+      "description": "Try McDonald's Spicy Deluxe McCrispy Chicken Sandwich—crispy chicken with Spicy Pepper Sauce. Order this spicy deluxe chicken sandwich in the app!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product mcrib® mcrib® spicy mccrispy™ spicy mccrispy™ deluxe mccrispy™ deluxe mccrispy™ 10 piece chicken mcnuggets® 10 piece chicken mcnuggets® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-deluxe-mccrispy-chicken-sandwich.html",
+      "price": null,
+      "category": "Chicken & Fish Sandwiches"
+    },
+    {
+      "item_name": "Filet-O-Fish®",
+      "description": "Enjoy a Filet-O-Fish! A delicious fish sandwich made with wild-caught Alaskan Pollock, cheese & tartar sauce! Order one at McDonald's or in the app!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ mccrispy™ mccrispy™ spicy mccrispy™ spicy mccrispy™ deluxe mccrispy™ deluxe mccrispy™ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/filet-o-fish.html",
+      "price": null,
+      "category": "Chicken & Fish Sandwiches"
+    },
+    {
+      "item_name": "McChicken®",
+      "description": "The McDonald's McChicken® is a crispy chicken sandwich topped with mayo and lettuce. Order a crispy McChicken sandwich at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product spicy deluxe mccrispy™ spicy deluxe mccrispy™ mccrispy™ mccrispy™ spicy mccrispy™ spicy mccrispy™ deluxe mccrispy™ deluxe mccrispy™ important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mcchicken.html",
+      "price": null,
+      "category": "Chicken & Fish Sandwiches"
+    },
+    {
+      "item_name": "Small World Famous Fries®",
+      "description": "McDonald's World Famous Fries® make for a savory snack or crispy addition to any meal. Get your fries with McDelivery® or at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product world famous fries® world famous fries® apple slices apple slices world famous fries® world famous fries® world famous fries® world famous fries® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/small-french-fries.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Apple Slices",
+      "description": "Looking for a easy kids snack? McDonald’s apple slices are the perfect addition as a snack or side, or add them to any Happy Meal® !",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product world famous fries® world famous fries® small world famous fries® small world famous fries® world famous fries® world famous fries® world famous fries® world famous fries® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/apple-slices.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Tangy Barbeque Sauce",
+      "description": "McDonald's Tangy Barbeque Sauce features a tomato paste base, vinegar & savory spices. Pair with Chicken McNuggets® for a satisfying combo!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce honey honey sweet 'n sour sauce sweet 'n sour sauce spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/tangy-barbeque-sauce.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Spicy Buffalo Sauce",
+      "description": "Our McDonald's Spicy Buffalo Sauce recipe fuses flavors of vinegar, butter and pepper. Give this hot, spicy buffalo sauce a try at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/spicy-buffalo-sauce.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Creamy Ranch Sauce",
+      "description": "McDonald's ranch is slightly tart with flavors of onion and garlic. Try this tasty McDonald's Creamy Ranch Sauce with Chicken McNuggets® or Fries!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/creamy-ranch-sauce.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Honey Mustard Sauce",
+      "description": "McDonald's Honey Mustard sauce recipe is a zesty dijon with sweet notes of honey. Try our Honey Mustard dipping sauce today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/honey-mustard-sauce.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Honey",
+      "description": "McDonald's pure honey is the perfect McNuggets® dipping sauce or pairing for McDonald's fries. Try it today with your McDonald's order!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce sweet 'n sour sauce sweet 'n sour sauce spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/honey.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Sweet 'N Sour Sauce",
+      "description": "Our McDonald's Sweet 'N Sour sauce recipe blends apricot & peach flavors to make the perfect sweet and sour dipping sauce for Chicken McNuggets®!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Spicy",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey spicy buffalo sauce spicy buffalo sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sweet-n-sour-sauce.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Ketchup Packet",
+      "description": "Enjoy the sweet, classic flavor of McDonald's Ketchup, made from red ripe tomatoes. Add this tomato ketchup to your order at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/ketchup-packet.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Mustard Packet",
+      "description": "Try McDonald's Mustard Sauce for a tangy and spicy dipping sauce experience. Add this mustard dipping sauce to your meal at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mustard-package.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "Mayonnaise Packet",
+      "description": "Try McDonald's Mayonnaise—a rich, creamy mayo dipping sauce made with egg yolk, mustard flour & vinegar. Add it to your meal at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product hot mustard sauce hot mustard sauce tangy barbeque sauce tangy barbeque sauce honey honey sweet 'n sour sauce sweet 'n sour sauce important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mayonnaise-packet.html",
+      "price": null,
+      "category": "Fries & Sides"
+    },
+    {
+      "item_name": "McCafé® Caramel Macchiato",
+      "description": "Our Caramel Macchiato combines bold espresso and buttery caramel flavor with steamed milk. Try this hot Caramel Macchiato at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino mccafé® french vanilla cappuccino mccafé® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/caramel-macchiato-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Cappuccino",
+      "description": "Warm up with a McCafé® Cappuccino—made with rich, sustainably sourced espresso and steamed milk. Grab a cup of Cappuccino at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® caramel cappuccino mccafé® caramel cappuccino mccafé® french vanilla cappuccino mccafé® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/cappuccino-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Caramel Cappuccino",
+      "description": "McCafé® Caramel Cappuccino features steamed milk, bold espresso & a rich caramel flavor. Order a Caramel Cappuccino today at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® french vanilla cappuccino mccafé® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/caramel-cappuccino-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® French Vanilla Cappuccino",
+      "description": "Our French Vanilla Cappuccino blends rich vanilla flavor with bold espresso & steamed milk. Try a French Vanilla Cappuccino at your closest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/french-vanilla-cappuccino-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Mocha Latte",
+      "description": "Our McCafé® Mocha Latte is made with espresso, rich chocolate syrup and whipped light cream. Order a Mocha Latte today at your closest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mccaf-mocha-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "Americano",
+      "description": "Try our McCafé® Americano made with hot water and Rainforest Alliance Certified espresso. Grab an Americano today at your nearest McDonald’s!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/espresso-americano-coffee-small-12-oz.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Premium Roast Coffee",
+      "description": "McCafé® Premium Roast Coffee is made with expertly roasted 100% Arabica coffee beans.Order a freshly brewed coffee now at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/coffee-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced Caramel Macchiato",
+      "description": "McDonald's Iced Caramel Macchiato features bold espresso and buttery caramel syrup with extra caramel drizzle. Enjoy one at your nearest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino mccafé® french vanilla cappuccino mccafé® french vanilla cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-caramel-macchiato.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced Mocha Latte",
+      "description": "Try a refreshing Iced Mocha latte with Rainforest Alliance Certified™ espresso, rich chocolate syrup & milk. Grab an Iced Mocha at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mccafe-iced-mocha-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced Caramel Coffee",
+      "description": "McDonald’s Iced Caramel Coffee features premium roast coffee & buttery caramel syrup. Order a McCafé Iced Caramel Coffee at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-caramel-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced French Vanilla Coffee",
+      "description": "McCafé® French Vanilla Iced Coffee features creamy vanilla syrup and bold coffee to kickstart your day. Order one today at your nearest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-coffee-french-vanilla-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Latte",
+      "description": "Start your day with a McDonald's Latte made with rich Rainforest Alliance Certified™ espresso & steamed milk. Order a hot latte at your closest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced Latte",
+      "description": "Get refreshed with McDonald's Iced Latte featuring espresso, whole milk & your choice of flavored syrup. Try an Iced Latte today at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mccaf-iced-latte-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Caramel Latte",
+      "description": "Sip on a McCafé® Caramel Latte—made with espresso, buttery caramel syrup and milk. Try a Hot Caramel Latte at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-caramel-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced Caramel Latte",
+      "description": "A McCafé® Iced Caramel Latte features bold espresso, milk, and creamy caramel syrup. Treat yourself to an Iced Caramel Latte at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-caramel-latte-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® French Vanilla Latte",
+      "description": "McDonald’s French Vanilla Latte blends creamy French vanilla syrup, bold espresso and milk. Try a hot Vanilla Latte at your nearest McDonald's today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/latte-french-vanilla-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Iced French Vanilla Latte",
+      "description": "A McCafé® Iced French Vanilla Latte features bold espresso, whole milk & French vanilla syrup. Sip on an Iced Vanilla Latte at your closest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-french-vanilla-latte-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Caramel Frappé",
+      "description": "McCafé® Caramel Frappe blends caramel flavor with a hint of coffee & is topped with whipped light cream. Try a Caramel Frappe at a McDonald's nearby!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/frappe-caramel-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McCafé® Mocha Frappé",
+      "description": "McCafé® Mocha Frappe blends chocolate flavor with a hint of coffee & is topped with whipped light cream. Try a Mocha Frappe at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/frappe-mocha-small.html",
+      "price": null,
+      "category": "McCafé® Coffees"
+    },
+    {
+      "item_name": "McFlurry® with OREO® Cookies",
+      "description": "Try the McDonald’s OREO® McFlurry®, a popular combination of vanilla soft serve & OREO® pieces. Order now at a McDonald's near you or in the App!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mcflurry-with-oreo-cookies.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "McFlurry® with M&M'S® Candies",
+      "description": "Treat yourself to a McDonald’s M&M® McFlurry®—made with vanilla soft serve and M&M’s® candies swirled throughout. Order at a McDonald’s near you or in the app!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies vanilla cone vanilla cone chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mm-candy-mcflurry.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Vanilla Cone",
+      "description": "Enjoy a vanilla soft serve treat at McDonald's, featuring our creamy vanilla soft serve in a crispy cone. Order one at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies chocolate shake chocolate shake vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/vanilla-cone.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Chocolate Shake",
+      "description": "Sip on a perfectly crafted McDonald’s Chocolate Shake, made with creamy soft serve & chocolate syrup! Try a Chocolate Shake at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone vanilla shake vanilla shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/chocolate-shake-small.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Vanilla Shake",
+      "description": "McDonald’s Vanilla Shake combines creamy soft serve and vanilla syrup with whipped light cream on top. Grab a Vanilla Shake at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/vanilla-shake-small.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Strawberry Shake",
+      "description": "McDonald's Strawberry Shake features creamy soft serve and delicious strawberry syrup. Try this Strawberry Shake at your nearest McDonald’s today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/strawberry-shake-small.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Hot Fudge Sundae",
+      "description": "Our Hot Fudge Sundae is made with creamy vanilla soft serve and hot fudge topping. Order a Hot Fudge Sundae at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-fudge-sundae.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Hot Caramel Sundae",
+      "description": "McDonald's Hot Caramel Sundae is made with vanilla soft serve and buttery caramel sauce. Try a Hot Caramel Sundae today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-caramel-sundae.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Baked Apple Pie",
+      "description": "Sweeten up your meal with McDonald's Baked Apple Pie—an apple pie dessert made with apples and a lattice crust Try it at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/baked-hot-apple-pie.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Chocolate Chip Cookie",
+      "description": "Satisfy your sweet tooth with a soft and chewy Chocolate Chip Cookie from McDonald’s. Order a Chocolate Chip Cookie today at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mcflurry® with oreo® cookies mcflurry® with oreo® cookies mcflurry® with m&m's® candies mcflurry® with m&m's® candies vanilla cone vanilla cone chocolate shake chocolate shake important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/chocolate-chip-cookie.html",
+      "price": null,
+      "category": "Sweets & Treats"
+    },
+    {
+      "item_name": "Coca-Cola®",
+      "description": "Coca-Cola® from McDonald's is a cold, refreshing fountain drink. Grab a Coca-Cola soda at a McDonald’s near you & pair it with your favorite menu items!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange diet coke® diet coke® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/coca-cola-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Sprite®",
+      "description": "Have you tried a caffeine free soda? Order a McDonald’s Sprite®—a lemon lime soda that's caffeine free and a perfect addition to any McDonald’s meal!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® dr pepper® dr pepper® fanta® orange fanta® orange diet coke® diet coke® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sprite-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Dr Pepper®",
+      "description": "Dr Pepper® is a unique blend of 23 flavors that pairs perfectly with all your McDonald's favorites. Try a Dr Pepper soda at your nearest McDonald’s today!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® fanta® orange fanta® orange diet coke® diet coke® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/dr-pepper-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Fanta® Orange",
+      "description": "Enjoy Fanta® Orange soda—a refreshing, caffeine-free soda full of orange flavor. Order an Orange Fanta® soda at a McDonald's near you or in the app!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® diet coke® diet coke® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/fanta-orange-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Diet Coke®",
+      "description": "Sip on an icy cold, sugar-free, zero calories Diet Coke® from McDonald's. Order a Diet Coke fountain drink at a McDonald’s near you or with McDelivery®!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/diet-coke-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Hi-C® Orange Lavaburst®",
+      "description": "Hi-C® Orange Lavaburst® is a fun and delicious orange flavored drink with a fruity taste you love—grab a Hi-C Orange drink at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hi-c-orange-lavaburst-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Frozen Fanta® Blue Raspberry",
+      "description": "Sweet, fruity raspberry flavor with a hint of tartness for a super cool refreshing treat that’s perfect for the summer. Get a small Frozen Fanta® Blue Raspberry with Mobile Order & Pay in the app!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/frozen-fanta-blue-raspberry-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Frozen Coca-Cola® Classic",
+      "description": "Enjoy a refreshing Frozen Coca-Cola® with your favorite McDonald’s burger & Fries. Get a small Frozen Coke® slushie today at your nearest McDonald's!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/frozen-coke-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Strawberry Banana Smoothie",
+      "description": "McDonald’s Strawberry Banana Smoothie recipe combines low fat yogurt with fruit puree & juices. Get the best Strawberry Banana Smoothie at McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/strawberry-banana-smoothie-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Mango Pineapple Smoothie",
+      "description": "McDonald’s Mango Pineapple Smoothie blends tropical smoothie flavors with low fat yogurt and ice. Enjoy one at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product mccafé® caramel macchiato mccafé® caramel macchiato mccafé® iced caramel macchiato mccafé® iced caramel macchiato mccafé® cappuccino mccafé® cappuccino mccafé® caramel cappuccino mccafé® caramel cappuccino important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/mango-pineapple-smoothie-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Lemonade",
+      "description": "Try a refreshing McDonald's Lemonade, made with real lemon juice, lemon pulp & real cane sugar. Grab a Lemonade drink now at a McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® fanta® orange fanta® orange dr pepper® dr pepper® sprite® sprite® important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/lemonade-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Sweet Tea",
+      "description": "Sip on a McDonald’s Sweet Tea—a refreshing blend of orange pekoe and pekoe cut black tea. Order a Sweet Tea at a McDonald’s near you or with McDelivery®!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/sweet-tea-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Unsweetened Iced Tea",
+      "description": "McDonald's Iced Tea recipe features a refreshing blend of orange pekoe & pekoe cut black tea. Enjoy an Unsweetened Iced Tea at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/iced-tea-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Hot Tea",
+      "description": "McDonald's Hot Tea is a flavorful mix of orange pekoe & pekoe cut black tea. Get your Hot Tea at the nearest McDonald’s to start a perfect morning!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-tea-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Minute Maid® Premium Orange Juice",
+      "description": "Get 100% Orange Juice with Minute Maid® Premium Orange Juice at McDonald's. Try our pure Orange Juice with Vitamin C at the McDonald's near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/minute-maid-orange-juice-medium-201248.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Honest Kids® Appley Ever After® Organic Juice Drink",
+      "description": "Looking for an organic juice for kids? Add an Honest Kids® Appley Ever After® Organic Juice Drink to your Happy Meal® at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/honest-kids-appley-ever-after-6-fl-oz-drink-box.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "1% Low Fat Milk Jug",
+      "description": "McDonald's 1% Low Fat Milk Jug contains wholesome low fat milk with the goodness of Calcium and Vitamin D. Order at McDonald's with Mobile Order & Pay!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/1-low-fat-milk-jug.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "Reduced Sugar* Low Fat Chocolate Milk Jug",
+      "description": "Sip on a delicious, calcium and vitamins A & D-rich Low Fat Chocolate Milk Jug. Grab a Reduced Sugar Low Fat Chocolate Milk Jug at a McDonald’s near you!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/reduced-sugar-low-fat-chocolate-milk-jug.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "",
+      "description": "Looking for some delicious coffee nearby? Browse our McCafé® Coffee menu for freshly brewed coffee, espresso drinks, McCafé beverages and more!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: as identified by the u.s"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/hot-chocolate-small.html",
+      "price": null,
+      "category": "Beverages"
+    },
+    {
+      "item_name": "DASANI® Water",
+      "description": "Quench your thirst with a cool and refreshing DASANI® water bottle. Grab DASANI® purified water at a McDonald’s near you or order with McDelivery®!",
+      "special_features": [
+        "Vegetarian / Vegan option",
+        "Allergens: information nutrition calculator related product coca-cola® coca-cola® sprite® sprite® dr pepper® dr pepper® fanta® orange fanta® orange important note : at mcdonald's, we take great care to serve quality, great-tasting menu items to our customers each and every time they visit our restaurants"
+      ],
+      "product_url": "https://www.mcdonalds.com/us/en-us/product/dasani-water.html",
+      "price": null,
+      "category": "Beverages"
+    }
+  ]
+}
